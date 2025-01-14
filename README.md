@@ -64,7 +64,7 @@ Pass: 035623116
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-jQDpDFX2ao)](https://youtu.be/-jQDpDFX2ao)
 ---
 ### 選定開發板 AMB82-MINI
-Tools > Board Manager > AMB82 package > 4.0.7<br>
+Tools > Board Manager > AMB82 package > 4.0.8<br>
 <p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_Arduino_IDE_BoardManager.png?raw=true"></p>
 
 ---
