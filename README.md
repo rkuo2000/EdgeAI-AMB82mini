@@ -403,6 +403,11 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ### Portable Chatbot with a local LLM/VLM models
 [![](https://markdown-videos-api.jorgenkh.no/youtube/3PnHSE_8rRM)](https://youtu.be/3PnHSE_8rRM)
 
+---
+### Bread POS
+Github: [https://github.com/youjunjer/AMB82_Bread_POS](https://github.com/youjunjer/AMB82_Bread_POS)<br>
+
+---
 ### Portable ChatGPT with a local LLM
 [![](https://markdown-videos-api.jorgenkh.no/youtube/7rfmXPqyLF0)](https://youtu.be/7rfmXPqyLF0)
 
