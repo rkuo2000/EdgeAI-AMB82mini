@@ -16,7 +16,8 @@ int status = WL_IDLE_STATUS;     // Indicator of Wifi status
 
 // Name of the server we want to connect to
 const char kHostname[] = "https://generativelanguage.googleapis.com";
-const char kPath[] = "/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCnRzbxgrMX1GjIHnN7U6EQVM8YKy9Ikw4";
+const char GEMINI_API_KEY = ""
+const char kPath[] = "/v1beta/models/gemini-2.0-flash-lite-preview-02-05:generateContent?key="+GEMINI_API_KEY;
 const char kContent[] = ' Content-Type: application/json { "contents": [{"parts": [{"text": "What is the large language model?"}] }] }'
 // Number of milliseconds to wait without receiving any data before we give up
 const int kNetworkTimeout = 30 * 1000;
