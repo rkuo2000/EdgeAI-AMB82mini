@@ -71,8 +71,13 @@ Tools > Board Manager > AMB82 package > 4.0.8<br>
 ---
 ### [Getting Started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)
 首先將AMB82-mini板子用MicroUSB線 連接至電腦的USB port<br>
+確認UART com port (Ubuntu OS需 `sudo chown usrname /dev/ttyUSB0`)
 
 <p><img width="50%" height="50%" src="https://www.amebaiot.com/wp-content/uploads/2022/12/amb82-mini/P03.png"></p>
+
+**燒錄程式碼：** <br>
+* 按下UART_DOWNLOAD按鈕, 再按下RESET按鈕, 放開RESET按鈕, 再放開UART_DOWNLOAD按鈕,板子就進入燒錄模式.
+* 然後于Arduino IDE上按下燒錄按鍵`Upload`
 
 ---
 ### Arduino examples 範例練習
