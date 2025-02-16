@@ -395,6 +395,10 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ---
 ## 12. EdgeAI 應用專題實作
 
+### Bionic Robot Arm
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/bionic_robot_arm.png?raw=true)
+
+---
 ### Vaccum Robot
 ![](https://github.com/rkuo2000/EdgeAI-AmebaPro2/blob/main/assets/vacuum_robot.png?raw=true)
 
@@ -411,7 +415,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 [![](https://markdown-videos-api.jorgenkh.no/youtube/IumI-uAtkRU)](https://youtu.be/IumI-uAtkRU)
 
 ---
-### Automatic License-Plate Recognition (自動車牌辨識)
+### Automatic License-Plate Recognition (ALPR)
 1. YOLOv7 Alphabet Detection
 2. GenAI Vision
 
