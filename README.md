@@ -411,18 +411,14 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 [![](https://markdown-videos-api.jorgenkh.no/youtube/IumI-uAtkRU)](https://youtu.be/IumI-uAtkRU)
 
 ---
-### Portable ChatGPT
+### Automatic License-Plate Recognition (自動車牌辨識)
+1. YOLOv7 Alphabets
+2. GenAI Vision
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/3PnHSE_8rRM)](https://youtu.be/3PnHSE_8rRM)
+---
+### Portable ChatGPT
+[![](https://markdown-videos-api.jorgenkh.no/youtube/7rfmXPqyLF0)](https://youtu.be/7rfmXPqyLF0)
 
 ---
 ### Bread POS
 Github: [https://github.com/youjunjer/AMB82_Bread_POS](https://github.com/youjunjer/AMB82_Bread_POS)<br>
-
----
-### Portable ChatGPT with a local LLM
-[![](https://markdown-videos-api.jorgenkh.no/youtube/7rfmXPqyLF0)](https://youtu.be/7rfmXPqyLF0)
-
----
-### Vision LLM
-
