@@ -412,7 +412,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ---
 ### Automatic License-Plate Recognition (自動車牌辨識)
-1. YOLOv7 Alphabets
+1. YOLOv7 Alphabet Detection
 2. GenAI Vision
 
 ---
