@@ -396,7 +396,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ## 12. AmebaPro2 應用專題實作
 
 ### Vaccum Robot
-(trash classification, IR collision detection)<br>
+![](https://github.com/rkuo2000/EdgeAI-AmebaPro2/blob/main/assets/vacuum_robot.png?raw=true)
 [![](https://markdown-videos-api.jorgenkh.no/youtube/YHR3ZOmtcyU)](https://youtu.be/YHR3ZOmtcyU)
 
 ### RoboCar 
