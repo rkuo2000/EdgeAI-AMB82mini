@@ -393,7 +393,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * [RecordMP4_CaptureJPG_HTTP_Post_AudioImage](https://github.com/rkuo2000/Arduino/tree/master/examples/AMB82-MINI/RecordMP4_CaptureJPG_HTTP_Post_AudioImage)
 
 ---
-## 12. AmebaPro2 應用專題實作
+## 12. EdgeAI 應用專題實作
 
 ### Vaccum Robot
 ![](https://github.com/rkuo2000/EdgeAI-AmebaPro2/blob/main/assets/vacuum_robot.png?raw=true)
