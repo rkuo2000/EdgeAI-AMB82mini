@@ -1,6 +1,6 @@
-# EdgeAI AmebaPro2
+# EdgeAI AMB82mini
 ```
-教材網址：https://github.com/rkuo2000/EdgeAI-AmebaPro2
+教材網址：https://github.com/rkuo2000/EdgeAI-AMB82mini
 ```
 
 ```
