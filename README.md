@@ -432,3 +432,6 @@ GenAI Vision + SDcardMP3 + Audio amplifier<br>
 ### Bread POS
 Github: [https://github.com/youjunjer/AMB82_Bread_POS](https://github.com/youjunjer/AMB82_Bread_POS)<br>
 
+1. YOLOv7 Object Detection
+2. GenAI Vision
+3. 
