@@ -98,7 +98,7 @@ const int ledPin = LED_BUILTIN;    // the number of the LED pin
 ---
 ### [AMB82-Mini 程式範例](https://github.com/rkuo2000/EdgeAI-AmebaPro2/tree/main/Arduino/AMB82-mini)
 
-1. 瀏覽器打開 [EdgeAI-AmebaPro2](https://github.com/rkuo2000/EdgeAI-AMB82mini), 點[Code]並選 [Download ZIP]
+1. 瀏覽器打開 [EdgeAI-AMB82mini](https://github.com/rkuo2000/EdgeAI-AMB82mini), 點[Code]並選 [Download ZIP]
 2. 解壓縮.zip, 並將 Arduino/AMB82-mini 複製到 Documents/Arduino底下 
 
 ---
