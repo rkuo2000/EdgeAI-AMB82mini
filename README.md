@@ -405,7 +405,12 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * [HTTP_Post_ImageAudio](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/HTTP_Post_ImageAudio)
 
 ---
-## 12. EdgeAI 應用專題實作
+### 13. GenAI API
+
+**Examples:** AmebaNN > GenAIVision<br>
+
+---
+## 14. EdgeAI 應用專題實作
 
 ### Portable ChatGPT
 [![](https://markdown-videos-api.jorgenkh.no/youtube/7rfmXPqyLF0)](https://youtu.be/7rfmXPqyLF0)
