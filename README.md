@@ -429,10 +429,6 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ![](https://a.rimg.com.tw/c1/1cc/575/nevvssia/3/a5/22501580839845_261.jpg)
 
 ---
-### Bionic Robot Arm
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/bionic_robot_arm.png?raw=true)
-
----
 ### Automatic License-Plate Recognition (ALPR)
 1. YOLOv7 Alphabet Detection
 2. GenAI Vision
