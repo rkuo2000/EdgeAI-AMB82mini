@@ -101,6 +101,12 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin
 2. 解壓縮.zip, 並將 Arduino/AMB82-mini 複製到 文件/Arduino下, 成為 `文件/Arduino/AMb82-mini`
 
 ---
+### BLE example codes
+**Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO ** <br>
+
+[BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
+
+---
 ## 4. 感測器範例練習
 Serial-monitor baud rate = `115200`<br>
 
