@@ -185,7 +185,7 @@ Serial-monitor baud rate = `115200`<br>
 
 ---
 ### [Motion Detection Google Line Notify](https://www.amebaiot.com/en/amebapro2-arduino-motion-notify/)
-**Examples:** AmebaMultimedia / MotionDetection / MotionDetectGoogleLineNotify<br>
+**Examples:** AmebaMultimedia > MotionDetection > MotionDetectGoogleLineNotify<br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/g_ZP023XCIw)](https://youtu.be/g_ZP023XCIw)
 
