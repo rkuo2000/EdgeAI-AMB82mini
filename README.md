@@ -107,6 +107,10 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin
 
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
+* [V7RC APP 介紹]<br>
+* 安裝[手機App V7RC](https://play.google.com/store/apps/details?id=com.v7idea.v7rcliteandroidsdkversion&hl=en)<br>
+![](https://www.amebaiot.com/wp-content/uploads/2023/08/ble-v7rc/p1_zh.png)
+
 ---
 ## 4. 感測器範例練習
 Serial-monitor baud rate = `115200`<br>
