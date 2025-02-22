@@ -203,9 +203,6 @@ Audio & Mic<br>
 AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
 
-**Examples:** AmebaMultimdedia / SDcardPlayMP3
-* a file named "Audio_test.mp3" is stored on SDcard
-
 **Skatch:** [SDcardMP3](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardMP3/SDcardMP3.ino)<br>
 * .mp3 files stored under mp3 directory
 
@@ -213,19 +210,19 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
      
 ---
 ### 音頻串流範例
-**Examples:** AmebaMultimedia / Audio / RTSPAudioStream<br>
+**Examples:** AmebaMultimedia > Audio > RTSPAudioStream<br>
 
 [RTSP Audio Stream](https://www.amebaiot.com/en/amebapro2-arduino-audio-rtsp/)<br>
 
 ---
 ### MP4錄音範例
-**Examples:** AmebaMultimedia / RecordMP4 / AudioOnly<br>
+**Examples:** AmebaMultimedia > RecordMP4 > AudioOnly<br>
 
 [Multimedia - MP4 Recording](https://www.amebaiot.com/en/amebapro2-arduino-video-mp4/)<br>
 
 ---
 ### 音頻分類範例
-**Examples:** [AmebaNN / AudioClassification](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-audio-classification/)<br>
+**Examples:** [AmebaNN > AudioClassification](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-audio-classification/)<br>
 
 [YAMNet](https://codimd.mcl.math.ncu.edu.tw/s/hoOqEgBSf)<br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/oi8ML6aJcvI)](https://youtu.be/oi8ML6aJcvI)
@@ -237,7 +234,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 
 ---
 ### [人臉檢測範例](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-face-detection/)
-**Examples:** AmebaNN / RTSPFaceDetection<br>
+**Examples:** AmebaNN > RTSPFaceDetection<br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/KD95JH6gVew)](https://youtu.be/KD95JH6gVew)
 
@@ -245,7 +242,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 
 ---
 ### [人臉識別範例](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-face-recognition/)
-**Examples:** AmebaNN / RTSPFaceRecognition<br>
+**Examples:** AmebaNN > RTSPFaceRecognition<br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/GGOIQmMfeF8)](https://youtu.be/GGOIQmMfeF8)
 
