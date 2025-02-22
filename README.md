@@ -28,7 +28,7 @@ Pass: 035623116
 802.11 a/b/g/n WiFi 2.4GHz/5GHz, BLE 5.1, *NN Engine 0.4 TOPS*, Crypto Engine, Audio Codec, ...<br>
 
 ---
-### [HUB 8735 Ultra](https://www.ruten.com.tw/item/show?22434411139868)
+### [HUB 8735 Ultra](https://robotkingdom.com.tw/product/hub-8735-ultra/)
 #### [https://github.com/ideashatch/HUB-8735](https://github.com/ideashatch/HUB-8735)
 
 ![](http://winstouch.com.tw/Util/GetPicture.aspx?PicturePath=/UploadFile/IMG_17188933653479.jpg&QueryWidth=400)
