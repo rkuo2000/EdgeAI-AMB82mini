@@ -191,7 +191,6 @@ Serial-monitor baud rate = `115200`<br>
 ---
 ## 7. 音頻應用 
 Audio & Mic<br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
 
 ### 音頻環回測試
 **Examples:** AmebaMultimedia / Audio /LoopbackTest<br>
@@ -200,6 +199,9 @@ Audio & Mic<br>
 
 ---
 ### MP3 播放
+AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
+
 **Examples:** AmebaMultimdedia / SDcardPlayMP3
 * a file named "Audio_test.mp3" is stored on SDcard
 
