@@ -102,7 +102,8 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin
 
 ---
 ### BLE example codes
-**Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO ** <br>
+
+**Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
 
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
