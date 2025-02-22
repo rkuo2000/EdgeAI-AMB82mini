@@ -194,7 +194,7 @@ Serial-monitor baud rate = `115200`<br>
 Audio & Mic<br>
 
 ### 音頻環回測試
-**Examples:** AmebaMultimedia / Audio /LoopbackTest<br>
+**Examples:** AmebaMultimedia > Audio >LoopbackTest<br>
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_audiojack.jpeg?raw=true)
 
