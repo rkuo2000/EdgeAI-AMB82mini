@@ -86,7 +86,7 @@ Tools > Board Manager > AMB82 package > 4.0.9<br>
 
 Steps to get started <br>
 * Install **Visual Studio Code**
-* Install the Arduino extension from the **Visual Studio Marketplace**
+* Install the Arduino extension from the **[Visual Studio Marketplace](https://marketplace.visualstudio.com/)**
 * Configure Arduino settings
 * Create a new Arduino project folder and file with the ".ino" extension
 * Write and upload your code
