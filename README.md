@@ -91,13 +91,14 @@ Steps to get started <br>
 * Create a new Arduino project folder and file with the ".ino" extension
 * Write and upload your code
 
-Arduino extension features <br>
+[Arduino extension features](https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio) <br>
 * IntelliSense: Provides code suggestions and tips as you type
 * Built-in board manager: Manages boards and libraries
 * Built-in example list: Provides examples to help you get started
 * Built-in serial monitor: Lets you monitor communication with your Arduino board
 * Snippets: Provides snippets for common Arduino sketches
 * Automatic project scaffolding: Helps you get started on new projects
+* 
 ---
 ### Arduino examples 範例練習
 * 01.Basics> Blink
