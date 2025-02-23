@@ -432,7 +432,8 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ---
 ### Children's Intelligent Interactive Robot
-![](https://a.rimg.com.tw/c1/1cc/575/nevvssia/3/a5/22501580839845_261.jpg)
+<p><img width="50%" height="50%" src=""></p>
+<p><img width="50%" height="50%" src="https://a.rimg.com.tw/c1/1cc/575/nevvssia/3/a5/22501580839845_261.jpg"></p>
 
 ---
 ### Automatic License-Plate Recognition (ALPR)
