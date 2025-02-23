@@ -436,9 +436,9 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/bb8-robot.png?raw=true)
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.png?raw=true)
-
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-robot.png?raw=true)
+
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true)
 
 ---
 ### Automatic License-Plate Recognition (ALPR)
