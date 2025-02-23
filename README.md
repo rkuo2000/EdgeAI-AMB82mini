@@ -83,6 +83,7 @@ Tools > Board Manager > AMB82 package > 4.0.9<br>
 ### [Visual Studio Code](https://code.visualstudio.com/)
 [Download](https://code.visualstudio.com/download)<br>
 `sudo dpkg -i code_1.97.2-1739406807_amd64.deb`<br>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FUEDK87co4Y](https://youtu.be/FUEDK87co4Y)
 
 Steps to get started <br>
 * Install **Visual Studio Code**
@@ -98,7 +99,8 @@ Steps to get started <br>
 * Built-in serial monitor: Lets you monitor communication with your Arduino board
 * Snippets: Provides snippets for common Arduino sketches
 * Automatic project scaffolding: Helps you get started on new projects
-* 
+![](https://www.visualmicro.com/image.axd?picture=2017/4/visual-studio-arduino-new-project-types.png)
+
 ---
 ### Arduino examples 範例練習
 * 01.Basics> Blink
