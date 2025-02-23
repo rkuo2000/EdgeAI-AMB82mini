@@ -83,7 +83,7 @@ Tools > Board Manager > AMB82 package > 4.0.9<br>
 ### [Visual Studio Code](https://code.visualstudio.com/)
 [Download](https://code.visualstudio.com/download)<br>
 `sudo dpkg -i code_1.97.2-1739406807_amd64.deb`<br>
-[![](https://markdown-videos-api.jorgenkh.no/youtube/FUEDK87co4Y](https://youtu.be/FUEDK87co4Y)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FUEDK87co4Y)](https://youtu.be/FUEDK87co4Y)
 
 Steps to get started <br>
 * Install **Visual Studio Code**
