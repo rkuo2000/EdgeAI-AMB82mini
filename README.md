@@ -45,7 +45,25 @@ Pass: 035623116
 <p><img src="https://github.com/rkuo2000/EdgeAI-MCU/blob/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
 
 ---
-## 3. Arduino IDE使用介紹
+## 3. IDE使用介紹
+### [Visual Studio Code](https://code.visualstudio.com/)
+[Download](https://code.visualstudio.com/download)<br>
+`sudo dpkg -i code_1.97.2-1739406807_amd64.deb`<br>
+```
+Steps to get started <br>
+* Install Visual Studio Code
+* Install the Arduino extension from the Visual Studio Marketplace
+* Configure Arduino settings
+* Create a new Arduino project folder and file with the ".ino" extension
+* Write and upload your code
+
+Arduino extension features <br>
+* IntelliSense: Provides code suggestions and tips as you type
+* Built-in board manager: Manages boards and libraries
+* Built-in example list: Provides examples to help you get started
+* Built-in serial monitor: Lets you monitor communication with your Arduino board
+* Snippets: Provides snippets for common Arduino sketches
+* Automatic project scaffolding: Helps you get started on new projects
 
 ### [Arduino IDE 2.3.4](https://www.arduino.cc/en/software) 下載 & 安裝
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Arduino_IDE_2.3.4.png?raw=true"></p>
