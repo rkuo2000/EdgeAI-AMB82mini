@@ -188,7 +188,7 @@ Serial-monitor baud rate = `115200`<br>
 * Camera_2_Lcd_JPEGDEC : Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD
   
 Note: **Camera_2_Lcd** has compilation error which need to edit TJpg_Decoder library's source code<br>
-`libraries/TJpg_Decoder/src/User_Config.h`<br>
+**libraries/TJpg_Decoder/src/User_Config.h**<br>
 
 ```
 #if defined (ESP32) || defined (ARDUINO_ARCH_ESP8266) || defined (ARDUINO_ARCH_RP2040)
