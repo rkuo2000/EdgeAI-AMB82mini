@@ -109,7 +109,7 @@ Steps to get started <br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
     
-**Examples> 02.Digitial> GPIO> Button**<br>
+**Examples> 02.Digitial > GPIO > Button**<br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
 
@@ -117,7 +117,7 @@ Steps to get started <br>
 const int buttonPin = `1`;  // the number of the pushbutton pin<br>
 const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
-**Examples> 01.Basic> AnalogReadSerial**<br>
+**Examples> 01.Basic > AnalogReadSerial**<br>
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
 
