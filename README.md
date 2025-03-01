@@ -160,9 +160,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ---
 ### [MQTT](https://mqtt.org/)
 MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br>
-
 [How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)<br>
-![](http://www.steves-internet-guide.com/wp-content/uploads/MQTT-Publish-Subscribe-Model.jpg)
 
 **Examples> AmebaMQTTClient > MQTT_basic** <br>
 [MQTT - Set up MQTT Client to Communicate with Broker](https://www.amebaiot.com/en/amebapro2-arduino-mqtt-upload-listen/)<br>
