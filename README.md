@@ -111,15 +111,14 @@ Steps to get started <br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
 
-修改程式碼：<br>
-
+程式碼修改：<br>
 const int buttonPin = `1`;  // the number of the pushbutton pin<br>
-const int ledPin = `LED_BUILTIN`;    // the number of the LED pin
+const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
 * 01.Basic> AnalogReadSerial
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
-Serial.begin(`115200`);<br>
+程式碼修改：Serial.begin(`115200`);<br>
 
 ---
 ### [AMB82-Mini 程式範例](https://github.com/rkuo2000/EdgeAI-AmebaPro2/tree/main/Arduino/AMB82-mini)
