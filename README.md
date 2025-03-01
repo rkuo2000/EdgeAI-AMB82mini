@@ -103,11 +103,11 @@ Steps to get started <br>
 
 ---
 ### Arduino examples 範例練習
-* 01.Basics> Blink
+**Examples> 01.Basics> Blink**<br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
     
-* 02.Digitial> GPIO> Button
+**Examples> 02.Digitial> GPIO> Button**<br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
 
@@ -115,7 +115,7 @@ Steps to get started <br>
 const int buttonPin = `1`;  // the number of the pushbutton pin<br>
 const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
-* 01.Basic> AnalogReadSerial
+**Examples> 01.Basic> AnalogReadSerial**<br>
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
 
@@ -131,22 +131,23 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ## 4. Examples 範例練習
 
 ### WiFi
-**Examples > WiFi > SimpleTCPServer**<br>
+**Examples> WiFi > SimpleTCPServer**<br>
 [WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
 
-**Examples > WiFi > SimpleHttpWeb > ReceiveData**<br>
+**Examples> WiFi > SimpleHttpWeb > ReceiveData**<br>
 [WiFi - Simple Http Server to Receive Data](https://www.amebaiot.com/en/amebapro2-arduino-web-server-status/)<br>
 
-**Examples > WiFi > SimpleHttpWeb > WebServer_ControlLED**<br>
+**Examples> WiFi > SimpleHttpWeb > WebServer_ControlLED**<br>
 [WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
 
+**Sketchbook> AMB82-mini > WebServer_ControlLED**<br>
 [Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
 ---
 ### BLE
 
-**Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
+**Exmples> AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
 
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
@@ -191,7 +192,7 @@ Serial-monitor baud rate = `115200`<br>
 <p><img width="50%" height="50%" src="https://esphome.io/_images/vl53l0x.png"></p>
 
 **Datasheet**: [VL53L0X - Time-of-Flight ranging sensor](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vl53l0x.pdf)<br>\
-**Sketch:** [IR_VL53L0X](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/IR_VL53L0X)<br>
+**Sketchbook> AMB82-mini > [IR_VL53L0X](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/IR_VL53L0X)** <br>
 
 ---
 ### 慣性感測模組
@@ -200,7 +201,7 @@ Serial-monitor baud rate = `115200`<br>
 
 **[慣性元件介紹](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/05/24/IMU.html)** <br>
 
-**Sketch:** [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)<br>
+**Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)** <br>
 
 ---
 ## 5.彩色顯示器 TFTLCD
@@ -225,24 +226,20 @@ Serial-monitor baud rate = `115200`<br>
 #### AMB82 MINI and QVGA TFT LCD Wiring Diagram:<br>
 ![](https://www.amebaiot.com/wp-content/uploads/2023/01/spi/lcdP01.png)
 
-**Sketch:** [HTTP_Post_ImageText_TFTLCD](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/HTTP_Post_ImageText_TFTLCD)<br>
+**Sketchbook> AMB82-mini > [HTTP_Post_ImageText_TFTLCD](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/HTTP_Post_ImageText_TFTLCD)** <br>
 
-**Exmples/AmebaSPI:** <br>
-* LCD_Screen_ILI9341_TFT : LCD Draw Tests
-* Camera_2_Lcd : Camera output , then Jpeg Decoder to TFT-LCD
-* Camera_2_Lcd_JPEGDEC : Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD
-  
-Note: <br>
-**Camera_2_Lcd** has compilation error which need to edit TJpg_Decoder library's source code<br>
-**libraries/TJpg_Decoder/src/User_Config.h**<br>
-
+**Exmples> AmebaSPI > Camera_2_lcd** <br>
+Camera output , then Jpeg Decoder to TFT-LCD<br>
+**compilation error:** need to edit `Libraries/TJpg_Decoder/src/User_Config.h`<br>
 ```
-#if defined (ESP32) || defined (ARDUINO_ARCH_ESP8266) || defined (ARDUINO_ARCH_RP2040)
-  #define TJPGD_LOAD_FFS
-#endif
-
 //#define TJPGD_LOAD_SD_LIBRARY
 ```
+
+**Exmples > AmebaSPI > Camera_2_Lcd_JPEGDEC** <br>
+Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD
+
+**Exmples > AmebaSPI > LCD_Screen_ILI9341_TFT** <br>
+LCD Draw Tests
 
 ---
 ## 6. 影像串流範例練習
@@ -256,7 +253,7 @@ Note: <br>
 
 ---
 ### [動作偵測 (motion detection)](https://www.amebaiot.com/en/amebapro2-arduino-video-motion/)
-**Examples:** AmebaMultimedia > MotionDetection > LoopPostProcessing<br>
+**Examples> AmebaMultimedia > MotionDetection > LoopPostProcessing** <br>
 * 修改ssid, passwd, 後燒錄到AMB82-mini,
 * 按reset後程式即開始運行, 用serial-monitor 查看顯示串流網址
 * 啟動手機或電腦上之VLC player, 設定RTSP串流網址
@@ -264,7 +261,7 @@ Note: <br>
 
 ---
 ### [Motion Detection Google Line Notify](https://www.amebaiot.com/en/amebapro2-arduino-motion-notify/)
-**Examples:** AmebaMultimedia > MotionDetection > MotionDetectGoogleLineNotify<br>
+**Examples> AmebaMultimedia > MotionDetection > MotionDetectGoogleLineNotify** <br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/g_ZP023XCIw)](https://youtu.be/g_ZP023XCIw)
 
@@ -273,7 +270,7 @@ Note: <br>
 Audio & Mic<br>
 
 ### 音頻環回測試
-**Examples:** AmebaMultimedia > Audio >LoopbackTest<br>
+**Examples> AmebaMultimedia > Audio >LoopbackTest**<br>
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_audiojack.jpeg?raw=true)
 
@@ -282,26 +279,26 @@ Audio & Mic<br>
 AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
 
-**Skatch:** [SDcardMP3](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardMP3/SDcardMP3.ino)<br>
+**Sketchbook> AMB82-mini > [SDcardMP3](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardMP3/SDcardMP3.ino)** <br>
 * .mp3 files stored under mp3 directory
 
-**Skatch:** [SDcardMP3_PlayAll](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardMP3_PlayAll/SDcardMP3_PlayAll.ino)<br>
+**Sketchbook> AMB82-mini > [SDcardMP3_PlayAll](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardMP3_PlayAll/SDcardMP3_PlayAll.ino)** <br>
      
 ---
 ### 音頻串流範例
-**Examples:** AmebaMultimedia > Audio > RTSPAudioStream<br>
+**Examples> AmebaMultimedia > Audio > RTSPAudioStream** <br>
 
 [RTSP Audio Stream](https://www.amebaiot.com/en/amebapro2-arduino-audio-rtsp/)<br>
 
 ---
 ### MP4錄音範例
-**Examples:** AmebaMultimedia > RecordMP4 > AudioOnly<br>
+**Examples> AmebaMultimedia > RecordMP4 > AudioOnly** <br>
 
 [Multimedia - MP4 Recording](https://www.amebaiot.com/en/amebapro2-arduino-video-mp4/)<br>
 
 ---
 ### 音頻分類範例
-**Examples:** [AmebaNN > AudioClassification](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-audio-classification/)<br>
+**Examples> AmebaNN > [AudioClassification](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-audio-classification/)** <br>
 
 [YAMNet](https://codimd.mcl.math.ncu.edu.tw/s/hoOqEgBSf)<br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/oi8ML6aJcvI)](https://youtu.be/oi8ML6aJcvI)
@@ -313,7 +310,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 
 ---
 ### [人臉檢測範例](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-face-detection/)
-**Examples:** AmebaNN > RTSPFaceDetection<br>
+**Examples> AmebaNN > RTSPFaceDetection** <br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/KD95JH6gVew)](https://youtu.be/KD95JH6gVew)
 
@@ -321,7 +318,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 
 ---
 ### [人臉識別範例](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-face-recognition/)
-**Examples:** AmebaNN > RTSPFaceRecognition<br>
+**Examples> AmebaNN > RTSPFaceRecognition** <br>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/GGOIQmMfeF8)](https://youtu.be/GGOIQmMfeF8)
 
