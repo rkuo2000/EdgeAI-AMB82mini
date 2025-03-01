@@ -197,11 +197,10 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 **Sketchbook> AMB82-mini > [IR_VL53L0X](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/IR_VL53L0X)** <br>
 
 ---
-### [慣性感測模組](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)
+### 慣性感測
+[慣性感測介紹](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)<br>
 **[MPU6050](https://www.ruten.com.tw/item/show?22428017261803)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/MPU6050.png?raw=true)
-
-**[慣性元件介紹](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/05/24/IMU.html)** <br>
 
 **Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)** <br>
 
