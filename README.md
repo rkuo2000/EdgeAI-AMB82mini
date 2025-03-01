@@ -130,6 +130,16 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ## 4. Examples 範例練習
 
 ### WiFi
+**Examples > WiFi > SimpleTCPServer**<br>
+[WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
+
+**Examples > WiFi > SimpleHttpWeb > WebServer_ControlLED**<br>
+[WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
+
+[Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-)mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
+
+**Examples > WiFi > SimpleHttpWeb > ReceiveData**
+[WiFi - Simple Http Server to Receive Data](https://www.amebaiot.com/en/amebapro2-arduino-web-server-status/)<br>
 
 ---
 ### BLE example codes
@@ -146,7 +156,32 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 </p>
 
 ---
-### 
+### [MQTT](https://mqtt.org/)
+MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br>
+
+[How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)<br>
+![](http://www.steves-internet-guide.com/wp-content/uploads/MQTT-Publish-Subscribe-Model.jpg)
+
+**Examples> AmebaMQTTClient > MQTT_basic** <br>
+[MQTT - Set up MQTT Client to Communicate with Broker](https://www.amebaiot.com/en/amebapro2-arduino-mqtt-upload-listen/)<br>
+![](https://www.amebaiot.com/wp-content/uploads/2023/06/network/mqtt1-1.png)
+
+**publisher/subscriber for AMB82-mini** <br>
+publish messages to AMB82-mini<br>
+```
+import paho.mqtt.publish as publish
+host = "test.mosquitto.org"
+publish.single("ntou/edgeai/robot1", "go to the kitchen", hostname=host)
+```
+
+subsribe messages from AMB82-mini<br>
+```
+import paho.mqtt.subscribe as subscribe
+host = "test.mosquitto.org"
+msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
+print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
+```
+
 ---
 ## 4. 感測器範例練習
 Serial-monitor baud rate = `115200`<br>
