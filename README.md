@@ -231,10 +231,8 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 **Exmples> AmebaSPI > Camera_2_lcd** <br>
 Camera output , then Jpeg Decoder to TFT-LCD<br>
-**compilation error:** need to edit `Libraries/TJpg_Decoder/src/User_Config.h`<br>
-```
-//#define TJPGD_LOAD_SD_LIBRARY
-```
+**compilation error:** need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
+//#define TJPGD_LOAD_SD_LIBRARY<br>
 
 **Exmples > AmebaSPI > Camera_2_Lcd_JPEGDEC** <br>
 Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD
