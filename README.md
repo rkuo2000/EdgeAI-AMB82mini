@@ -101,6 +101,7 @@ Steps to get started <br>
 * Automatic project scaffolding: Helps you get started on new projects
 ![](https://www.visualmicro.com/image.axd?picture=2017/4/visual-studio-arduino-new-project-types.png)
 
+---
 ### Arduino examples 範例練習
 * 01.Basics> Blink
   
