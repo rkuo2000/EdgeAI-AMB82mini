@@ -68,6 +68,8 @@ Pass: 035623116
 Tools > Board Manager > AMB82 package > 4.0.9<br>
 <p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_Arduino_IDE_BoardManager.png?raw=true"></p>
 
+Serial-monitor = `115200` baud <br>
+
 ---
 ### [Getting Started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)
 首先將AMB82-mini板子用MicroUSB線 連接至電腦的USB port<br>
@@ -185,8 +187,7 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
 
 ---
-## 4. 感測器範例練習
-Serial-monitor baud rate = `115200`<br>
+## 5. 感測器與週邊裝置
 
 ### 紅外線測距模組
 **[VL53L0X v2](https://www.ruten.com.tw/item/show?22425810394279)** <br>
@@ -206,9 +207,7 @@ Serial-monitor baud rate = `115200`<br>
 **Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)** <br>
 
 ---
-## 5.彩色顯示器 TFTLCD
-
-### AMB82-mini + ILI9341 TFT-LCD
+### ILI9341 TFT-LCD
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
 
 **[SPI - LCD Screen ILI9341 TFT](https://www.amebaiot.com/en/amebapro2-arduino-spi-lcd/)** <br>
