@@ -130,6 +130,8 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ---
 ## 4. Examples 範例練習
 
+### [MCU Interfaces](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MCU_interfaces.md)
+
 ### WiFi
 **Examples> WiFi > SimpleTCPServer**<br>
 [WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
@@ -195,7 +197,7 @@ Serial-monitor baud rate = `115200`<br>
 **Sketchbook> AMB82-mini > [IR_VL53L0X](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/IR_VL53L0X)** <br>
 
 ---
-### 慣性感測模組
+### [慣性感測模組](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)
 **[MPU6050](https://www.ruten.com.tw/item/show?22428017261803)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/MPU6050.png?raw=true)
 
