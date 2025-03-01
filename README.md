@@ -218,6 +218,7 @@ myservo.attach(8);
 ```
 myservo.write(pos);
 ```
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
 
 ---
 ### ILI9341 TFT-LCD
