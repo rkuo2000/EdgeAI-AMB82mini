@@ -198,7 +198,8 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 ---
 ### 慣性感測
-[慣性感測介紹](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)<br>
+[慣性感測元件](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)<br>
+
 **[MPU6050](https://www.ruten.com.tw/item/show?22428017261803)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/MPU6050.png?raw=true)
 
