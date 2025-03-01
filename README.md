@@ -244,15 +244,15 @@ myservo.write(pos);
 **Sketchbook> AMB82-mini > [HTTP_Post_ImageText_TFTLCD](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/HTTP_Post_ImageText_TFTLCD)** <br>
 
 **Exmples> AmebaSPI > Camera_2_lcd** <br>
-Camera output , then Jpeg Decoder to TFT-LCD<br>
-*compilation error:* need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
+*Camera output , then Jpeg Decoder to TFT-LCD<br>*<br>
+compilation error: need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
 //#define TJPGD_LOAD_SD_LIBRARY<br>
 
 **Exmples > AmebaSPI > Camera_2_Lcd_JPEGDEC** <br>
-Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD
+*Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD*<br>
 
 **Exmples > AmebaSPI > LCD_Screen_ILI9341_TFT** <br>
-LCD Draw Tests
+*LCD Draw Tests*<br>
 
 ---
 ## 6. 影像串流範例練習
