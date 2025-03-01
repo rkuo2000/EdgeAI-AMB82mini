@@ -105,7 +105,7 @@ Steps to get started <br>
 
 ---
 ### Arduino examples 範例練習
-**Examples> 01.Basics> Blink**<br>
+**Examples> 01.Basics > Blink**<br>
   
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
     
