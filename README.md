@@ -116,6 +116,9 @@ Steps to get started <br>
 const int buttonPin = `1`;  // the number of the pushbutton pin<br>
 const int ledPin = `LED_BUILTIN`;    // the number of the LED pin
 
+* 01.Basic> AnalogReadSerial
+
+
 ---
 ### [AMB82-Mini 程式範例](https://github.com/rkuo2000/EdgeAI-AmebaPro2/tree/main/Arduino/AMB82-mini)
 
