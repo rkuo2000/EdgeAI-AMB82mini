@@ -101,7 +101,6 @@ Steps to get started <br>
 * Automatic project scaffolding: Helps you get started on new projects
 ![](https://www.visualmicro.com/image.axd?picture=2017/4/visual-studio-arduino-new-project-types.png)
 
----
 ### Arduino examples 範例練習
 * 01.Basics> Blink
   
@@ -128,6 +127,11 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 2. 解壓縮.zip, 並將 Arduino/AMB82-mini 複製到 文件/Arduino下, 成為 `文件/Arduino/AMb82-mini`
 
 ---
+## 4. Examples 範例練習
+
+### WiFi
+
+---
 ### BLE example codes
 
 **Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
@@ -141,6 +145,8 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 <img width="50%" height="50%" src="https://www.amebaiot.com/wp-content/uploads/2023/08/ble-v7rc/p2_zh.png">
 </p>
 
+---
+### 
 ---
 ## 4. 感測器範例練習
 Serial-monitor baud rate = `115200`<br>
