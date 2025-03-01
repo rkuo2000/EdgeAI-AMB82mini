@@ -118,6 +118,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 * 01.Basic> AnalogReadSerial
 
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
+
 程式碼修改：Serial.begin(`115200`);<br>
 
 ---
