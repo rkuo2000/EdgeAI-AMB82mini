@@ -190,7 +190,7 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 ## 5. 感測器與週邊裝置
 
 ### 紅外線測距模組
-**[VL53L0X v2](https://www.ruten.com.tw/item/show?22425810394279)** <br>
+**[VL53L0X v2](https://www.ruten.com.tw/item/show?22425810394279)** ,  
 **[VL53L1X v2](https://www.ruten.com.tw/item/show?22425810394279)** <br>
 <p><img width="50%" height="50%" src="https://esphome.io/_images/vl53l0x.png"></p>
 
