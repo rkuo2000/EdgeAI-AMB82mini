@@ -248,8 +248,8 @@ Note: <br>
 ## 6. 影像串流範例練習
 
 ### 影像串流
-**Examples**: AmebaMultimedia > StreamRTSP > RTSP_VideoOnly<br>
-**Sketch**: [RTSP_VideoOnly](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/RTSP_VideoOnly)<br>
+**Examples> AmebaMultimedia > StreamRTSP > RTSP_VideoOnly** <br>
+**Sketchbook> [RTSP_VideoOnly](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/RTSP_VideoOnly)** <br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/OmAnWOmt6WQ)](https://youtu.be/OmAnWOmt6WQ)
 
 * [Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
