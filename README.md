@@ -207,6 +207,19 @@ print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
 **Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)** <br>
 
 ---
+### PWM
+[PWM - Servo Control](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/) <br>
+
+**Examples> AmebaAnalog > PWM_ServoControl** <br>
+```
+myservo.attach(8);
+```
+
+```
+myservo.write(pos);
+```
+
+---
 ### ILI9341 TFT-LCD
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
 
