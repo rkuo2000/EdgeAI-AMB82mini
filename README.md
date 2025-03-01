@@ -144,7 +144,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
 ---
-### BLE example codes
+### BLE
 
 **Exmples > AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
 
