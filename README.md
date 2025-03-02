@@ -225,10 +225,8 @@ myservo.write(pos);
 ![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-pinout.jpeg?w=768&ssl=1)
 
 **DRV8833** <br>
-<p>
-<img src="https://www.jsumo.com/drv8833-stepper-motor-driver-board-2-channel-4094-14-B.jpg">
-<img src="https://jin-hua.com.tw/upload/images/2430000015663-902.jpg"> 
-</p>
+![](https://www.jsumo.com/drv8833-stepper-motor-driver-board-2-channel-4094-14-B.jpg)
+![](https://jin-hua.com.tw/upload/images/2430000015663-902.jpg)
 
 ---
 ### ILI9341 TFT-LCD
