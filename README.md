@@ -220,6 +220,17 @@ myservo.write(pos);
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
 
 ---
+### H-bridge 全橋式馬達驅動
+**TB6612** <br>
+![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-pinout.jpeg?w=768&ssl=1)
+
+**DRV8833** <br>
+<p>
+<img src="https://www.jsumo.com/drv8833-stepper-motor-driver-board-2-channel-4094-14-B.jpg">
+<img src="https://jin-hua.com.tw/upload/images/2430000015663-902.jpg"> 
+</p>
+
+---
 ### ILI9341 TFT-LCD
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
 
