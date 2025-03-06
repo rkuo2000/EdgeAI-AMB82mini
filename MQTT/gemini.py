@@ -1,5 +1,6 @@
 # pip install google.generativeai
 # pip install paho.mqtt
+# pip install grpcio==1.59.0
 
 import paho.mqtt.publish as publish
 import google.generativeai as genai
@@ -22,5 +23,4 @@ print(response.text)
 
 ## MQTT publish
 host = "test.mosquitto.org"
-publish.signle("ntou/edgeai/robot", response.text, hostname=host)
-
+publish.single("ntou/edgeai/robot1", response.text, hostname=host)
