@@ -1,4 +1,4 @@
-import paho.mqtt.subscribe as publish
+import paho.mqtt.subscribe as subscribe
 
 host = "mqtt.eclipseprojects.io"
 msg = subscribe.simple("paho/ntou/edgeai/robot1", hostname=host)
