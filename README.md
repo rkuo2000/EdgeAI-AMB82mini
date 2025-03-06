@@ -171,6 +171,8 @@ MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br
 [MQTT - Set up MQTT Client to Communicate with Broker](https://www.amebaiot.com/en/amebapro2-arduino-mqtt-upload-listen/)<br>
 ![](https://www.amebaiot.com/wp-content/uploads/2023/06/network/mqtt1-1.png)
 
+`pip install paho.mqtt`<br>
+
 **publish messages to AMB82-mini** <br>
 ```
 import paho.mqtt.publish as publish
