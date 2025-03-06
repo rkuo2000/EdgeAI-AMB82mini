@@ -185,7 +185,7 @@ publish.single("ntou/edgeai/robot1", "go to the kitchen", hostname=host)
 import paho.mqtt.subscribe as subscribe
 host = "test.mosquitto.org"
 msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
-print("% %s" % (msg.topic, msg.payload.decode("utf-8")))
+print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
 
 ---
