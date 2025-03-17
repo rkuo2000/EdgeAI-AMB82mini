@@ -189,6 +189,11 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
 
 ---
+### [MQTT IOT App](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/AI2/ai2.html)
+
+Download extension : [UrsAI2PahoMqtt](https://ullisroboterseite.de/android-AI2-MQTT-en.html)<br>
+
+---
 ## 5. 感測器與週邊裝置
 
 ### 紅外線測距模組
