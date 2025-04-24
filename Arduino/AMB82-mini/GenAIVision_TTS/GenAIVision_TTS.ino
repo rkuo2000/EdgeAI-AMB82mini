@@ -1,6 +1,6 @@
 /*
 
-This sketch shows the example of image prompts using APIs.
+This sketch shows the example of image prompts using APIs, plus text-to-speech using Google Translate API.
 
 openAI platform - openAI vision
 https://platform.openai.com/docs/guides/vision
@@ -42,7 +42,7 @@ VideoSetting config(768, 768, CAM_FPS, VIDEO_JPEG, 1);
 uint32_t img_addr = 0;
 uint32_t img_len = 0;
 
-//String prompt_msg = "Please tell me what are the recyclables in short word? are they flattened?";
+//String prompt_msg = "What type and name of the recyclables in the picture?";
 String prompt_msg = "請問這個回收物是什麼?;
 
 const int buttonPin = 1;          // the number of the pushbutton pin
