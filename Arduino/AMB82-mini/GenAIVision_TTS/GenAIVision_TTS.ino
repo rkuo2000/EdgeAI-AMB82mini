@@ -20,8 +20,8 @@ Credit : ChungYi Fu (Kaohsiung, Taiwan)
 String openAI_key = "";               // paste your generated openAI API key here
 String Gemini_key = "";               // paste your generated Gemini API key here
 String Llama_key = "";                // paste your generated Llama API key here
-char wifi_ssid[] = "KUO";    // your network SSID (name)
-char wifi_pass[] = "0972211921";        // your network password
+char wifi_ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
+char wifi_pass[] = "035623116";        // your network password
 
 #include <WiFi.h>
 #include <WiFiUdp.h>
@@ -43,7 +43,7 @@ uint32_t img_addr = 0;
 uint32_t img_len = 0;
 
 //String prompt_msg = "Please tell me what are the recyclables in short word? are they flattened?";
-String prompt_msg = "請問這個回收物是什麼?有沒有壓扁?";
+String prompt_msg = "請問這個回收物是什麼?;
 
 const int buttonPin = 1;          // the number of the pushbutton pin
 
