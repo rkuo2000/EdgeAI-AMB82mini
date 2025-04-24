@@ -12,9 +12,11 @@ GroqCloud - Llama vision
 https://console.groq.com/docs/overview
 
 Example Guide: https://ameba-arduino-doc.readthedocs.io/en/latest/amebapro2/Example_Guides/Neural%20Network/Generative%20AI%20Vision.html
+Example Guide: https://ameba-arduino-doc.readthedocs.io/en/latest/amebapro2/Example_Guides/Neural%20Network/Text-to-Speech.html
 
 Credit : ChungYi Fu (Kaohsiung, Taiwan)
 
+2025/04/25 example created by Richard Kuo, NTOU/EE
 */
 
 String openAI_key = "";               // paste your generated openAI API key here
