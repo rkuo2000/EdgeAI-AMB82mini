@@ -22,10 +22,8 @@ Credit : ChungYi Fu (Kaohsiung, Taiwan)
 String openAI_key = "";               // paste your generated openAI API key here
 String Gemini_key = "";               // paste your generated Gemini API key here
 String Llama_key = "";                // paste your generated Llama API key here
-//char wifi_ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
-//char wifi_pass[] = "035623116";        // your network password
-char wifi_ssid[] = "HITRON-DF90-5G";    // your network SSID (name)
-char wifi_pass[] = "0972211921";        // your network password
+char wifi_ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
+char wifi_pass[] = "035623116";        // your network password
 
 #include <WiFi.h>
 #include <WiFiUdp.h>
