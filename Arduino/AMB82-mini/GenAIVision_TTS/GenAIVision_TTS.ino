@@ -45,7 +45,7 @@ uint32_t img_addr = 0;
 uint32_t img_len = 0;
 
 //String prompt_msg = "What type and name of the recyclables in the picture?";
-String prompt_msg = "請問這個回收物是什麼?;
+String prompt_msg = "請問這個回收物是什麼?";
 
 const int buttonPin = 1;          // the number of the pushbutton pin
 
