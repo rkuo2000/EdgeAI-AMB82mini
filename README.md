@@ -526,8 +526,8 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ---
 ### AI-assisted Foreign Language Card reader
 <p>
-<img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard1.jpg?raw=true">
-<img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard2.jpg?raw=true">
+<img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard1.jpg?raw=true">
+<img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard2.jpg?raw=true">
 </p>
 
 ---
