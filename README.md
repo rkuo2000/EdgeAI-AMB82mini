@@ -513,15 +513,17 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * [HTTP_Post_ImageAudio](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/HTTP_Post_ImageAudio)
 
 ---
-### 13. GenAI API
+## 13. GenAI
 
-**Examples:** AmebaNN > GenAIVision<br>
+**Examples:** AmebaNN > MultimediaAI > GenAIVision<br>
+**Examples:** AmebaNN > MultimediaAI > GenAISpeech_Gemini<br>
+**Examples:** AmebaNN > MultimediaAI > TextToSpeech<br>
 
 * [GenAIVision_TTS_Text_ReadWordCard](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAIVision_TTS_Text_ReadWordCard/GenAIVision_TTS_Text_ReadWordCard.ino)
 
 * [GenAISpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAISpeech/GenAISpeech.ino)
 
-
+* [TextToSpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/TextToSpeech/TextToSpeech.ino)
   
 ---
 ## 14. EdgeAI 應用專題實作
