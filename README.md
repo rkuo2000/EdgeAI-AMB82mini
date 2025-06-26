@@ -517,57 +517,21 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 **Examples:** AmebaNN > GenAIVision<br>
 
+* [GenAIVision_TTS_Text_ReadWordCard](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAIVision_TTS_Text_ReadWordCard/GenAIVision_TTS_Text_ReadWordCard.ino)
+
+* [GenAISpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAISpeech/GenAISpeech.ino)
+
+
+  
 ---
 ## 14. EdgeAI 應用專題實作
 
-### Portable ChatGPT
-[![](https://markdown-videos-api.jorgenkh.no/youtube/7rfmXPqyLF0)](https://youtu.be/7rfmXPqyLF0)
+### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
 
----
-### GenAIVision Foreign-Language Card Reader
-<p>
-<img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard1.jpg?raw=true">
-<img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_GenAIVision_TTS_Text_ReadCard2.jpg?raw=true">
-</p>
-
----
-### RoboCar 
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/vr_V1QnVMts)](https://youtu.be/vr_V1QnVMts)
-
----
-### Vaccum Robot
-![](https://github.com/rkuo2000/EdgeAI-AmebaPro2/blob/main/assets/vacuum_robot.png?raw=true)
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/YHR3ZOmtcyU)](https://youtu.be/YHR3ZOmtcyU)
-
-### AI Front-Door
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/IumI-uAtkRU)](https://youtu.be/IumI-uAtkRU)
-
----
-### Children's Intelligent Interactive Robot
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/crab-robot.png?raw=true)
-
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/bb8-robot.png?raw=true)
-
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-robot.png?raw=true)
-
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true)
-
----
-### Automatic License-Plate Recognition (ALPR)
-1. YOLOv7 Alphabet Detection
-2. GenAI Vision
-
----
-### Recycle Assistant
-GenAI Vision + SDcardMP3 + Audio amplifier<br>
-
----
-### Bread POS
-Github: [https://github.com/youjunjer/AMB82_Bread_POS](https://github.com/youjunjer/AMB82_Bread_POS)<br>
-
-1. YOLOv7 Object Detection
-2. GenAI Vision
-3. 
+* [AI輔助回收系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/AI-assistedrecyclingsortingsystem.html)
+* [AI輔助英語讀字卡造句](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/AI-assisted-English-teaching-Flashcards-and-sentence-making.html)
+* [看圖說故事](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/fairytale.html)
+* [情緒偵測音樂播放器](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/Emotion-sensing-music-player.html)
+* [AI監視器](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/AIsurveillancevideosystem.html)
+* [盲人輔助系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/Visual-assistance-system-for-the-blind.html)
+* [盲人導航系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/14/Navigation-system-for-the-blind.html)
