@@ -530,6 +530,8 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
 
+### [EdgeAI 專題快速導覽](https://li-kai-huang.github.io/blog/AI-Class/)
+
 * [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
   
 * [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
@@ -541,5 +543,5 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
   
 * [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
-* 
+  
 * [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
