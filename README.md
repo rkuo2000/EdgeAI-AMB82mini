@@ -530,10 +530,16 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
 
-* [AI輔助回收系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/AI-assistedrecyclingsortingsystem.html)
-* [AI輔助英語讀字卡造句](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/AI-assisted-English-teaching-Flashcards-and-sentence-making.html)
-* [看圖說故事](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/fairytale.html)
-* [情緒偵測音樂播放器](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/Emotion-sensing-music-player.html)
-* [AI監視器](https://peijia0809.github.io/MCU-project/lecture/2025/06/13/AIsurveillancevideosystem.html)
-* [盲人輔助系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/12/Visual-assistance-system-for-the-blind.html)
-* [盲人導航系統](https://peijia0809.github.io/MCU-project/lecture/2025/06/14/Navigation-system-for-the-blind.html)
+* [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
+  
+* [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
+  
+* [AI看圖說故事](https://li-kai-huang.github.io/blog/AI-Class/project3/)
+  
+* [AI情緒感知音樂播放器](https://li-kai-huang.github.io/blog/AI-Class/project5/)
+  
+* [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
+  
+* [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
+* 
+* [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
