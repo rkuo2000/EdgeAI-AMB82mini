@@ -19,7 +19,7 @@ void setup()
     fs.begin();
 
     File file = fs.open(String(fs.getRootPath()) + filename, MP3);
-
+    file.setMp3DigitalVol(128);
     file.playMp3();
 
     file.close();
