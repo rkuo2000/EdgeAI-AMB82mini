@@ -122,7 +122,7 @@ void setup()
     pinMode(buttonPin, INPUT);
 
     init_tft();
-    tft.println("GenAIVision_TTS_LCD");
+    tft.println("GenAIVision_TFT");
 
     TJpgDec.setJpgScale(2); // The jpeg image can be scaled by a factor of 1, 2, 4, or 8    
     TJpgDec.setCallback(tft_output);
