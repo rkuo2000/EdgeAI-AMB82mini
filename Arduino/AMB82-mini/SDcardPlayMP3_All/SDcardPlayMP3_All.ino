@@ -19,7 +19,7 @@ void playMP3(const char *filename) {
     Serial.println(filename);
     return;
   }
-
+  file.setMp3DigitalVol(128);
   file.playMp3();
   file.close();
   Serial.println("Finished playing.");
