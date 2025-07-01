@@ -141,7 +141,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 **Examples> WiFi > SimpleHttpWeb > ReceiveData**<br>
 [WiFi - Simple Http Server to Receive Data](https://www.amebaiot.com/en/amebapro2-arduino-web-server-status/)<br>
 
-**Examples> WiFi > SimpleHttpWeb > WebServer_ControlLED**<br>
+**Examples> WiFi > SimpleHttpWeb > ControlLED**<br>
 [WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
 
 **Sketchbook> AMB82-mini > WebServer_ControlLED**<br>
