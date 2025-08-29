@@ -193,7 +193,7 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 Download extension : [UrsAI2PahoMqtt](https://ullisroboterseite.de/android-AI2-MQTT-en.html)<br>
 
-**[GeminiMQTT App](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MQTT/GeminiMQTT.aia)**<br>
+**[GeminiMQTT App](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/MQTT/GeminiMQTT.aia)**<br>
 Download to PC, and import to ai2.appinventor2.mit.edu<br>
 edit [Block] `global API_key` (get API key from https://aistudio.google.com/apikey)<br>
 
