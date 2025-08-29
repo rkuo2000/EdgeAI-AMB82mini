@@ -40,15 +40,15 @@ Pass: 035623116
 ### [AMB82-mini](https://www.icshop.com.tw/products/368030501864)
 #### [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini.png?raw=true)
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_kit.png?raw=true)
-<p><img src="https://github.com/rkuo2000/EdgeAI-MCU/blob/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
+![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini_kit.png?raw=true)
+<p><img src="https://github.com/rkuo2000/EdgeAI-MCU/tree/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
 
 ---
 ## 3. IDE使用介紹
 
 ### [Arduino IDE 2.3.6](https://www.arduino.cc/en/software) 下載 & 安裝
-<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Arduino_IDE.png?raw=true"></p>
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/Arduino_IDE.png?raw=true"></p>
 
 ---
 ### 偏好設定 (Preferences)
@@ -59,14 +59,14 @@ Pass: 035623116
 **main** `https://github.com/Ameba-AIoT/ameba-arduino-pro2/raw/main/Arduino_package/package_realtek_amebapro2_index.json`<br>
 **dev** `https://github.com/Ameba-AIoT/ameba-arduino-pro2/raw/dev/Arduino_package/package_realtek_amebapro2_early_index.json`<br>
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_Arduino_IDE_preference.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini_Arduino_IDE_preference.png?raw=true)
 
 ### [Ameba AIoT 影片](https://www.youtube.com/@amebaiot7033)
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-jQDpDFX2ao)](https://youtu.be/-jQDpDFX2ao)
 ---
 ### 選定開發板 AMB82-MINI
 Tools > Board Manager > AMB82 package > 4.0.9<br>
-<p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_Arduino_IDE_BoardManager.png?raw=true"></p>
+<p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini_Arduino_IDE_BoardManager.png?raw=true"></p>
 
 Serial-monitor = `115200` baud <br>
 
@@ -107,11 +107,11 @@ Steps to get started <br>
 ### Arduino examples 範例練習
 **Examples> 01.Basics > Blink**<br>
   
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
     
 **Examples> 02.Digitial > GPIO > Button**<br>
   
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
 
 程式碼修改：<br>
 const int buttonPin = `1`;  // the number of the pushbutton pin<br>
@@ -119,7 +119,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
 **Examples> 01.Basic > AnalogReadSerial**<br>
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
 
 程式碼修改：Serial.begin(`115200`);<br>
 
@@ -132,7 +132,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 ---
 ## 4. Examples 範例練習
 
-### [MCU Interfaces](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MCU_interfaces.md)
+### [MCU Interfaces](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/MCU_interfaces.md)
 
 ### WiFi
 **Examples> WiFi > SimpleTCPServer**<br>
@@ -145,8 +145,8 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 [WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
 
 **Sketchbook> AMB82-mini > WebServer_ControlLED**<br>
-[Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
+[Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
 ---
 ### BLE
@@ -193,7 +193,7 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 Download extension : [UrsAI2PahoMqtt](https://ullisroboterseite.de/android-AI2-MQTT-en.html)<br>
 
-**[GeminiMQTT App](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MQTT/GeminiMQTT.aia)**<br>
+**[GeminiMQTT App](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/MQTT/GeminiMQTT.aia)**<br>
 Download to PC, and import to ai2.appinventor2.mit.edu<br>
 edit [Block] `global API_key` (get API key from https://aistudio.google.com/apikey)<br>
 
@@ -204,15 +204,15 @@ edit [Block] `global API_key` (get API key from https://aistudio.google.com/apik
 **[VL53L0X v2](https://www.ruten.com.tw/item/show?22425810394279)** , **[VL53L1X v2](https://www.ruten.com.tw/item/show?22425810394279)** <br>
 <p><img width="50%" height="50%" src="https://esphome.io/_images/vl53l0x.png"></p>
 
-**Datasheet**: [VL53L0X - Time-of-Flight ranging sensor](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vl53l0x.pdf)<br>\
+**Datasheet**: [VL53L0X - Time-of-Flight ranging sensor](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/vl53l0x.pdf)<br>\
 **Sketchbook> AMB82-mini > [IR_VL53L0X](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/IR_VL53L0X)** <br>
 
 ---
 ### 慣性感測
-[慣性感測元件](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/IMU.md)<br>
+[慣性感測元件](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/IMU.md)<br>
 
 **[MPU6050](https://www.ruten.com.tw/item/show?22428017261803)** <br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/MPU6050.png?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/MPU6050.png?raw=true)
 
 **Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/MPU6050_DMP6v12)** <br>
 
@@ -228,7 +228,7 @@ myservo.attach(8);
 ```
 myservo.write(pos);
 ```
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/Gripper.jpg?raw=true)
 
 ---
 ### H-bridge 全橋式馬達驅動
@@ -241,7 +241,7 @@ myservo.write(pos);
 
 ---
 ### ILI9341 TFT-LCD
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
 
 **[SPI - LCD Screen ILI9341 TFT](https://www.amebaiot.com/en/amebapro2-arduino-spi-lcd/)** <br>
 
@@ -304,17 +304,17 @@ Audio & Mic<br>
 ### 音頻環回測試
 **Examples> AmebaMultimedia > Audio >LoopbackTest**<br>
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_audiojack.jpeg?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/AMB82-mini_button_audiojack.jpeg?raw=true)
 
 ---
 ### MP3 播放
 AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
 
-**Sketchbook> AMB82-mini > [SDCardPlayMP](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDCardPlayMP3/SDCardPlayMP3.ino)** <br>
+**Sketchbook> AMB82-mini > [SDCardPlayMP](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/SDCardPlayMP3/SDCardPlayMP3.ino)** <br>
 * .mp3 files stored under mp3 directory
 
-**Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDCardPlayMP3_All/SDCardPlayMP3_All.ino)** <br>
+**Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/SDCardPlayMP3_All/SDCardPlayMP3_All.ino)** <br>
      
 ---
 ### 音頻串流範例
@@ -355,7 +355,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/GGOIQmMfeF8)](https://youtu.be/GGOIQmMfeF8)
 
 Serial_monitor: `REG=RKUO`<br>
-<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/FaceRecognition_REG_RKUO.jpeg?raw=true"></p>
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/tree/main/assets/FaceRecognition_REG_RKUO.jpeg?raw=true"></p>
 
 * Enter the command **REG=Name** to give the targeted face a name.
 * Enter the command **DEL=Name** to delete a certain registered face. For example, `DEL=SAM`
@@ -519,11 +519,11 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 **Examples:** AmebaNN > MultimediaAI > GenAISpeech_Gemini<br>
 **Examples:** AmebaNN > MultimediaAI > TextToSpeech<br>
 
-* [GenAIVision_TTS_Text_ReadWordCard](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAIVision_TTS_Text_ReadWordCard/GenAIVision_TTS_Text_ReadWordCard.ino)
+* [GenAIVision_TTS_Text_ReadWordCard](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/GenAIVision_TTS_Text_ReadWordCard/GenAIVision_TTS_Text_ReadWordCard.ino)
 
-* [GenAISpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/GenAISpeech/GenAISpeech.ino)
+* [GenAISpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/GenAISpeech/GenAISpeech.ino)
 
-* [TextToSpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/TextToSpeech/TextToSpeech.ino)
+* [TextToSpeech.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/Arduino/AMB82-mini/TextToSpeech/TextToSpeech.ino)
   
 ---
 ## 14. EdgeAI 應用專題實作
