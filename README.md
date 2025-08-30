@@ -82,26 +82,12 @@ Serial-monitor = `115200` baud <br>
 * 然後于Arduino IDE上按下燒錄按鍵`Upload`
 
 ---
-### [Visual Studio Code](https://code.visualstudio.com/)
-[Download](https://code.visualstudio.com/download)<br>
-`sudo dpkg -i code_1.97.2-1739406807_amd64.deb`<br>
-[![](https://markdown-videos-api.jorgenkh.no/youtube/FUEDK87co4Y)](https://youtu.be/FUEDK87co4Y)
+### Realtek AmebaPro2 Hardware package/libraries
+`C:\Users\user\AppData\Local\Arduino15\packages\realtek\hardware\AmebaPro2\4.0.9-build20250805\libraries`<br>
 
-Steps to get started <br>
-* Install **Visual Studio Code**
-* Install the Arduino extension from the **[Visual Studio Marketplace](https://marketplace.visualstudio.com/)**
-* Configure Arduino settings
-* Create a new Arduino project folder and file with the ".ino" extension
-* Write and upload your code
-
-[Arduino extension features](https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio) <br>
-* IntelliSense: Provides code suggestions and tips as you type
-* Built-in board manager: Manages boards and libraries
-* Built-in example list: Provides examples to help you get started
-* Built-in serial monitor: Lets you monitor communication with your Arduino board
-* Snippets: Provides snippets for common Arduino sketches
-* Automatic project scaffolding: Helps you get started on new projects
-![](https://www.visualmicro.com/image.axd?picture=2017/4/visual-studio-arduino-new-project-types.png)
+`C:\Users\user\AppData\Local\Arduino15\packages\realtek\hardware\AmebaPro2\4.0.9-build20250805\libraries\NeuralNetwork\src`<br>
+GenAI.h<br>
+GenAI.cpp<br>
 
 ---
 ### Arduino examples 範例練習
