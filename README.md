@@ -82,7 +82,7 @@ Serial-monitor = `115200` baud <br>
 * 然後于Arduino IDE上按下燒錄按鍵`Upload`
 
 ---
-### Realtek AmebaPro2 Hardware package/libraries
+### Realtek AmebaPro2 hardware libraries
 `C:\Users\user\AppData\Local\Arduino15\packages\realtek\hardware\AmebaPro2\4.0.9-build20250805\libraries`<br>
 
 `C:\Users\user\AppData\Local\Arduino15\packages\realtek\hardware\AmebaPro2\4.0.9-build20250805\libraries\NeuralNetwork\src`<br>
