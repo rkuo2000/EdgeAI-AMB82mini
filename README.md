@@ -277,7 +277,7 @@ compilation error: need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
 ## 6. 影像串流範例練習
 
 ### 影像串流
-**Examples> AmebaMultimedia > StreamRTSP > RTSP_VideoOnly** <br>
+**Examples> AmebaMultimedia > StreamRTSP > VideoOnly** <br>
 **Sketchbook> [RTSP_VideoOnly](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/RTSP_VideoOnly)** <br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/OmAnWOmt6WQ)](https://youtu.be/OmAnWOmt6WQ)
 
