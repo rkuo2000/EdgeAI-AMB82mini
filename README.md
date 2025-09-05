@@ -182,6 +182,7 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 **Prompt:** `make an html to input MQTT topic and text to publish through paho-mqtt test.mosquitto.org`<br>
 
 **[Paho-MQTT Publisher](https://g.co/gemini/share/ae62311518bd)** <br>
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gemini_Canvas_Paho-MQTT_Text_Publisher.png?raw=true)
 
 ---
 ## 5. 感測器與週邊裝置
