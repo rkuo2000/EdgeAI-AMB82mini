@@ -176,8 +176,7 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 ---
 ### Gemini MQTT App
-[Google Gemini](https://gemini.google.com/)<br>
-**Canvas**<b>
+**[Google Gemini](https://gemini.google.com/) +Canvas** <br>
 
 **Prompt:** `make an html to input MQTT topic and text to publish through paho-mqtt test.mosquitto.org`<br>
 
