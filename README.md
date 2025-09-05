@@ -169,19 +169,19 @@ publish.single("ntou/edgeai/robot1", "go to the kitchen", hostname=host)
 **subsribe messages from AMB82-mini** <br>
 ```
 import paho.mqtt.subscribe as subscribe
-host = "test.mosquitto.org"
+host = "test.mosquitto.org"https://github.com/rkuo2000/EdgeAI-AMB82mini
 msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
 print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
 
 ---
-### [MQTT IOT App](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/AI2/ai2.html)
+### Gemini MQTT App
+[Google Gemini](https://gemini.google.com/)<br>
+**Canvas**<b>
 
-Download extension : [UrsAI2PahoMqtt](https://ullisroboterseite.de/android-AI2-MQTT-en.html)<br>
+**Prompt:** `make an html to input MQTT topic and text to publish through paho-mqtt test.mosquitto.org`<br>
 
-**[GeminiMQTT App](https://github.com/rkuo2000/EdgeAI-AMB82mini/tree/main/MQTT/GeminiMQTT.aia)**<br>
-Download to PC, and import to ai2.appinventor.mit.edu<br>
-edit [Block] `global API_key` (get API key from https://aistudio.google.com/apikey)<br>
+**[Paho-MQTT Publisher](https://g.co/gemini/share/ae62311518bd)** <br>
 
 ---
 ## 5. 感測器與週邊裝置
