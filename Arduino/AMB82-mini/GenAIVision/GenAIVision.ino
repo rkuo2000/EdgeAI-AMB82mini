@@ -100,7 +100,7 @@ void loop()
     //  String text = llm.openaivision(openAI_key, "gpt-4o-mini", prompt_msg, img_addr, img_len, client);
 
     // Gemini vision prompt        
-        String text = llm.geminivision(Gemini_key, "gemini-2.0-flash", prompt_msg, img_addr, img_len, client);
+        String text = llm.geminivision(Gemini_key, "gemini-2.5-flash", prompt_msg, img_addr, img_len, client);
 
     // Llama vision prompt
     //  String text = llm.llamavision(Llama_key, "llama-3.2-90b-vision-preview", prompt_msg, img_addr, img_len, client); 
