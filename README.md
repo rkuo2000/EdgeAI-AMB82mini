@@ -300,7 +300,7 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 **Sketchbook> AMB82-mini > [SDCardPlayMP](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDCardPlayMP3/SDCardPlayMP3.ino)** <br>
 * .mp3 files stored under mp3 directory
 
-**Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDCardPlayMP3_All/SDCardPlayMP3_All.ino)** <br>
+**Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardPlayMP3_All/SDcardPlayMP3_All.ino)** <br>
      
 ---
 ### 音頻串流範例
