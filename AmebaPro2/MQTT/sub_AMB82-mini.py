@@ -2,7 +2,7 @@ import paho.mqtt.subscribe as subscribe
 
 host = "test.mosquitto.org"
 
-msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
+msg = subscribe.simple("NTOUEE/EdgeAI/Robot1", hostname=host)
 print("topic  : %s" % (msg.topic))
 print()
 print("payload:")
