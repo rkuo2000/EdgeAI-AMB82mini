@@ -23,7 +23,7 @@ Pass: 035623116
 ---
 ## 2. 開發板介紹
 
-### RTL8735B晶片簡介
+### [RTL8735B晶片簡介](https://www.realmcu.com/en/Home/Product/RTL8735B-Series)
 32-bit Arm v8M, up to 500MHz, 768KB ROM, 512KB RAM, 16MB Flash (MCM embedded DDR2/DDR3L up to 128MB)<br>
 802.11 a/b/g/n WiFi 2.4GHz/5GHz, BLE 5.1, *NN Engine 0.4 TOPS*, Crypto Engine, Audio Codec, ...<br>
 
