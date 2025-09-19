@@ -445,20 +445,20 @@ names: ['pothole']  # class names
 
    
 ---
-### AMB82 Mini 物件偵測範例
+### AMB82 Mini - 物件偵測範例
 [![](https://markdown-videos-api.jorgenkh.no/youtube/EvryVoQyqqk)](https://youtu.be/EvryVoQyqqk)
 
 [RTSP_YOLOv7_Pothole](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/RTSP_YOLOv7_Pothole)<br>
 [RTSP_YOLOv7_Sushi](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/RTSP_YOLOv7_Sushi)<br>
 
 ---
-### AMB82 Mini SD卡加載模型範例
+### AMB82 Mini - SD卡加載模型範例
 [RTPS_ObjectDetection_AudioClassification.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RTSP_ObjectDetection_AudioClassification/)<br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/cVvdnXiCAa4)](https://youtu.be/cVvdnXiCAa4)
 
 ---
-### Online NN Conversion Tool (客製化模型轉換工具)
-[![](https://markdown-videos-api.jorgenkh.no/youtube/94MmHFgJwi8)](https://youtu.be/94MmHFgJwi8)
+### AMB82 Mini - 綫上AI 模型轉換工具
+[![](https://markdown-videos-api.jorgenkh.no/youtube/6cHC2cOKgQk)](https://youtu.be/6cHC2cOKgQk)
 
 ---
 ## 11. 大型語言模型範例 (LLM)
