@@ -22,7 +22,11 @@ public:
 
     String openaivision(String key, String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
     String geminivision(String key, String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
+
     String geminitext(String key, String model, String message, WiFiSSLClient client);
+
+    String ollamavision(String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
+
     String llamavision(String key, String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
     String whisperaudio(String api_key, char *api_server, String api_path, String model, String filename, WiFiSSLClient client);
     void googletts(String filename_mp3, String message, String lang);
