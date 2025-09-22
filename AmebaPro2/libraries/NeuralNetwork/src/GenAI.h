@@ -25,7 +25,9 @@ public:
 
     String geminitext(String key, String model, String message, WiFiSSLClient client);
 
-    String ollamavision(String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
+    String ollamavision(String model, String message, uint32_t img_addr, uint32_t img_len, WiFiClient client);
+
+    String ollamatext(String model, String message, WiFiClient client);
 
     String llamavision(String key, String model, String message, uint32_t img_addr, uint32_t img_len, WiFiSSLClient client);
     String whisperaudio(String api_key, char *api_server, String api_path, String model, String filename, WiFiSSLClient client);
