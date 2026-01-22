@@ -120,12 +120,12 @@ void loop()
         }
 
         // ASR 
-        String text = llm.geminiaudio(apiKey, fileName, "gemini-2.5-flash", mp4, "Please transcribe the audio into text", client);
+        String text = llm.geminiaudio(apiKey, fileName, "gemini-3-flash-preview", mp4, "Please transcribe the audio into text", client);
         Serial.println(text);
 
         // LLM Text
         String prompt_msg = text + ", 請簡短回答";
-        String answer = llm.geminitext(apiKey, "gemini-2.5-flash", prompt_msg, client);   
+        String answer = llm.geminitext(apiKey, "gemini-3-flash-preview", prompt_msg, client);   
 
         // Text-to-Speech
         tts.googletts(mp3Filename, answer, "zh-TW"); // en-US
