@@ -66,8 +66,8 @@ Pass: 035623116
 
 ---
 ### 選定開發板 AMB82-MINI
-Tools > Board Manager > AMB82 package > 4.0.9<br>
-<p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_Arduino_IDE_BoardManager.png?raw=true"></p>
+Tools > Board Manager > Search AMB82 : Realtek Ameba Boards 4.1.0-build20260108<br>
+<p><img width="75%" height="75%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/Arduino_IDE_BoardManager.png?raw=true"></p>
 
 Serial-monitor = `115200` baud <br>
 
