@@ -32,6 +32,7 @@ Pass: 035623116
 #### [https://github.com/ideashatch/HUB-8735](https://github.com/ideashatch/HUB-8735)
 
 <p><img width="25%" height="25%" src="https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg"></p>
+
 ![](https://tie.twtm.com.tw/uploads/exhibit_photos/3ys6pdXKl3QZdiB5fTNFvhQkgevUBtU2hOIVjsjj.jpg)
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-_NMUnY0kK4)](https://youtu.be/-_NMUnY0kK4)
