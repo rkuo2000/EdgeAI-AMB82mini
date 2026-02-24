@@ -73,8 +73,11 @@ myservo.write(pos);
 
 #### 1) Examples> AmebaSPI > Camera_2_lcd
 *Camera output , then Jpeg Decoder to TFT-LCD<br>*<br>
-compilation error: need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
+```
+need to modify Libraries/TJpg_Decoder/src/User_Config.h to comment out the following line:
+
 //#define TJPGD_LOAD_SD_LIBRARY<br>
+```
 
 #### 2) Examples > AmebaSPI > Camera_2_Lcd_JPEGDEC
 *Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD*<br>
