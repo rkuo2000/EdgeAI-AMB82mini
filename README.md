@@ -51,68 +51,6 @@ Pass: 035623116
 
 **[大型語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)** <br>
 
----
-### 語音辨識範例
-#### ffmpeg.exe is needed for Windows to run Whisper!
-* [AmebaPro2 Whisper server](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/src/AmebaPro2_Whisper_server.py)
-  
-* [HTTP_Post_Audio.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/HTTP_Post_Audio)
-
----
-### 語音交談範例
-#### ffmpeg.exe is needed for Windows to run Whisper!
-Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip), extract & put ffmpeg.exe into  where you run Whisper server.<br>
-
-#### [AmebaPro2 Whisper LLM_server](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AmebaPro2_server/AmebaPro2_Whisper_LLM_server.py)
-
-#### [AmebaPro2_Whisper_Gemini_server](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AmebaPro2_server/AmebaPro2_Whisper_Gemini_server.py) 
-
-#### [HTTP_Post_Audio.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/HTTP_Post_Audio)
-* 修改server IP位址 in RecordMP4_HTTP_Post_Audio.ino server IP位址, then 燒錄到 AMB82-MINI
-* reset AMB82-MINI 來啟動, 按鍵兩秒後即可錄音詢問 LLM/Gemini
-
----
-## 視覺語言模型 (VLM)
-**[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)** <br>
-
----
-### 影像+語音交談範例
-
-* [AmebaPro2_whisper_llava_server.py](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AmebaPro2_server/AmebaPro2_Whisper_Llava_server.py)
-  
-* [HTTP_Post_ImageAudio](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/HTTP_Post_ImageAudio)
-
----
-
-### AmebaNN 範例
-
-#### Examples > AmebaNN > MultimediaAI > GenAIVision
-
-#### Examples > AmebaNN > MultimediaAI > SendImageOllama
-
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper
-
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini
-
-#### Examples:** AmebaNN > MultimediaAI > TextToSpeech
-  
----
-## EdgeAI 應用專題實作
-
-### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
-
-### [EdgeAI 專題快速導覽](https://li-kai-huang.github.io/blog/AI-Class/)
-
-* [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
-  
-* [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
-  
-* [AI看圖說故事](https://li-kai-huang.github.io/blog/AI-Class/project3/)
-  
-* [AI情緒感知音樂播放器](https://li-kai-huang.github.io/blog/AI-Class/project5/)
-  
-* [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
-  
 * [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
   
 * [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
