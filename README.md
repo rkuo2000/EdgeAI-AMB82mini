@@ -32,45 +32,10 @@ Pass: 035623116
 ## [感測器與週邊裝置](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Sensor_Peripherals.md)
 
 ---
-## 「影音串流](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Video.md)
+## [影音串流](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Video.md)
 
 ---
-## 7. 音頻應用 
-Audio & Mic<br>
-
-### 音頻環回測試
-**Examples> AmebaMultimedia > Audio >LoopbackTest**<br>
-
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_audiojack.jpeg?raw=true)
-
----
-### MP3 播放
-AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_PAM8403.jpg?raw=true)
-
-**Sketchbook> AMB82-mini > [SDCardPlayMP](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDCardPlayMP3/SDCardPlayMP3.ino)** <br>
-* .mp3 files stored under mp3 directory
-
-**Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardPlayMP3_All/SDcardPlayMP3_All.ino)** <br>
-     
----
-### 音頻串流範例
-**Examples> AmebaMultimedia > Audio > RTSPAudioStream** <br>
-
-[RTSP Audio Stream](https://www.amebaiot.com/en/amebapro2-arduino-audio-rtsp/)<br>
-
----
-### MP4錄音範例
-**Examples> AmebaMultimedia > RecordMP4 > AudioOnly** <br>
-
-[Multimedia - MP4 Recording](https://www.amebaiot.com/en/amebapro2-arduino-video-mp4/)<br>
-
----
-### 音頻分類範例
-**Examples> AmebaNN > [AudioClassification](https://www.amebaiot.com/en/amebapro2-arduino-neuralnework-audio-classification/)** <br>
-
-[YAMNet](https://codimd.mcl.math.ncu.edu.tw/s/hoOqEgBSf)<br>
-[![](https://markdown-videos-api.jorgenkh.no/youtube/oi8ML6aJcvI)](https://youtu.be/oi8ML6aJcvI)
+## [音頻應用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Audio.md)
 
 ---
 ## 8. 人臉辨識與識別
