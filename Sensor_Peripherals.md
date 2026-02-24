@@ -73,9 +73,9 @@ myservo.write(pos);
 
 #### 1) Examples> AmebaSPI > Camera_2_lcd
 *Camera output , then Jpeg Decoder to TFT-LCD<br>*<br>
-```
-need to modify Libraries/TJpg_Decoder/src/User_Config.h to comment out the following line:
 
+`Libraries/TJpg_Decoder/src/User_Config.h` need to comment out the following line: <br>
+```
 //#define TJPGD_LOAD_SD_LIBRARY<br>
 ```
 
