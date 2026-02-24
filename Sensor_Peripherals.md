@@ -66,9 +66,11 @@ myservo.write(pos);
 * VCC: Connected to 3V or 5V, depends on its spec.
 * GND: Connected to GND.
 
+---
 ### AMB82-mini & QVGA TFT-LCD wiring diagram
 ![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image01224.png)
 
+---
 ### 範例程式
 
 #### 1) Examples> AmebaSPI > Camera_2_lcd
