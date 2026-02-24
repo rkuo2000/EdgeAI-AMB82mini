@@ -80,9 +80,11 @@ myservo.write(pos);
 ```
 
 #### 2) Examples > AmebaSPI > Camera_2_Lcd_JPEGDEC
-*Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD*<br>
+*Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD* <br>
+<br>
 
 #### 3) Examples > AmebaSPI > [DisplaySDJPG_ILI9341_TFT](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/SPI/Display%20SD%20JPG%20ILI9341%20TFT.html)
+<br>
 
 #### 4) Examples > AmebaSPI > LCD_Screen_ILI9341_TFT
 *LCD Draw Tests*<br>
