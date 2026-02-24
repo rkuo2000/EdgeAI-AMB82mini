@@ -9,36 +9,8 @@
 
 **Datasheet**: [VL53L0X - Time-of-Flight ranging sensor](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vl53l0x.pdf) <br>
 
-#### Examples> AmebaWire > VL53L0X > Continunous.ino** <br>
-```
-#include <Wire.h>
-#include <VL53L0X_IR_libraries/VL53L0X.h>
-
-VL53L0X sensor;
-
-void setup()
-{
-    Serial.begin(115200);
-    Wire.begin();
-
-    sensor.setTimeout(500);
-    if (!sensor.init()) {
-        Serial.println("Failed to detect and initialize sensor!");
-        while (1) {
-        }
-    }
-    sensor.startContinuous();
-}
-
-void loop()
-{
-    Serial.print(sensor.readRangeContinuousMillimeters());
-    if (sensor.timeoutOccurred()) {
-        Serial.print(" TIMEOUT");
-    }
-    Serial.println();
-}
-```
+#### Examples> AmebaWire > [VL53L0X > Continunous.ino](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/I2C/Retrieve%20Data%20from%20VL53L0X%20IR%20sensor.html)
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image01163.png)
 
 ---
 ### 慣性感測
@@ -47,15 +19,17 @@ void loop()
 **[MPU6050](https://www.ruten.com.tw/item/show?22428017261803)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/MPU6050.png?raw=true)
 
-##### Sketchbook > AMB82-mini > [MPU6050-DMP6v12](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/MPU6050_DMP6v12)
+##### Examples > AmebaWire > MPU6050 > [MPU6050_DMP6_using_DMP_V6v12.ino](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/I2C/MPU6050%20DMP6.html)
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image01149.png)
 
 ---
 ## 馬達驅動
 
 ### PWM
-[PWM - Servo Control](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/) <br>
 
-#### Examples> AmebaAnalog > PWM_ServoControl
+#### Examples> AmebaAnalog > [PWM_ServoControl](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/PWM/Servo%20Control.html)
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image01216.png)
+
 ```
 myservo.attach(8);
 ```
@@ -81,8 +55,6 @@ myservo.write(pos);
 ### ILI9341 TFT-LCD
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_button_SPI_TFTLCD.jpg?raw=true)
 
-**[SPI - LCD Screen ILI9341 TFT](https://www.amebaiot.com/en/amebapro2-arduino-spi-lcd/)** <br>
-
 **Interface signal names:** <br>
 * MOSI: Standard SPI Pin
 * MISO: Standard SPI Pin
@@ -94,20 +66,20 @@ myservo.write(pos);
 * VCC: Connected to 3V or 5V, depends on its spec.
 * GND: Connected to GND.
 
-**AMB82 MINI and QVGA TFT LCD Wiring Diagram:** <br>
-![](https://www.amebaiot.com/wp-content/uploads/2023/01/spi/lcdP01.png)
+### AMB82-mini & QVGA TFT-LCD wiring diagram
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image01224.png)
 
 ### 範例程式
 
-#### Sketchbook> AMB82-mini > [HTTP_Post_ImageText_TFTLCD](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/HTTP_Post_ImageText_TFTLCD)
-
-#### Exmples> AmebaSPI > Camera_2_lcd
+#### 1) Examples> AmebaSPI > Camera_2_lcd
 *Camera output , then Jpeg Decoder to TFT-LCD<br>*<br>
 compilation error: need to modify `Libraries/TJpg_Decoder/src/User_Config.h`<br>
 //#define TJPGD_LOAD_SD_LIBRARY<br>
 
-#### Exmples > AmebaSPI > Camera_2_Lcd_JPEGDEC
+#### 2) Examples > AmebaSPI > Camera_2_Lcd_JPEGDEC
 *Camera output, saved to SDcard, then Jpeg Decoder to read to TFT-LCD*<br>
 
-### Exmples > AmebaSPI > LCD_Screen_ILI9341_TFT
+#### 3) Examples > AmebaSPI > [DisplaySDJPG_ILI9341_TFT](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/SPI/Display%20SD%20JPG%20ILI9341%20TFT.html)
+
+#### 4) Examples > AmebaSPI > LCD_Screen_ILI9341_TFT
 *LCD Draw Tests*<br>
