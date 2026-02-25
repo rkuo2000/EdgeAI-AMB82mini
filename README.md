@@ -14,44 +14,41 @@ SSID: TCFSTWIFI.ALL
 Pass: 035623116
 ```
 
-## AI Overview
+## 1. AI Overview
 
 ### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Brief.html)
 
 ### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
 
 ---
-## [EVB & IDE 介紹與使用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/EVB_IDE.md)
+## 2. [EVB & IDE 介紹與使用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/EVB_IDE.md)
 
 ### [MCU 硬體界面介紹](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MCU_interfaces.md)
 
 ---
-## [ BLE & WiFi 通訊與協定](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/BLE_WiFi.md)
+## 3. [BLE & WiFi 通訊與協定](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/BLE_WiFi.md)
 
 ---
-## [感測器與週邊裝置](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Sensor_Peripherals.md)
+## 4. [感測器與週邊裝置](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Sensor_Peripherals.md)
 
 ---
-## [影音串流](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Video.md)
+## 5. [影音串流](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Video.md)
 
 ---
-## [音頻應用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Audio.md)
+## 6. [音頻應用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Audio.md)
 
 ---
-## [人臉辨識與識別](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Face.md)
+## 7. [人臉辨識與識別](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Face.md)
 
 ---
-## [影像分類](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Image_Classification.md)
+## 8. [影像分類](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Image_Classification.md)
 
 ---
-## [物件偵測](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Object_Detection.md)
+## 9. [物件偵測](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Object_Detection.md)
 
 ---
-## 大型語言模型範例 (LLM)
+## 10. 語音模型
 
-**[大型語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)** <br>
-
----
 ### 語音辨識範例
 #### ffmpeg.exe is needed for Windows to run Whisper!
 * [AmebaPro2 Whisper server](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/src/AmebaPro2_Whisper_server.py)
@@ -72,6 +69,10 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * reset AMB82-MINI 來啟動, 按鍵兩秒後即可錄音詢問 LLM/Gemini
 
 ---
+## 11. 語言模型
+
+### 大型語言模型範例 (LLM)
+
 ## 視覺語言模型 (VLM)
 **[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)** <br>
 
@@ -97,7 +98,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 #### Examples:** AmebaNN > MultimediaAI > TextToSpeech
   
 ---
-## EdgeAI 應用專題實作
+## 12. EdgeAI 應用專題實作
 
 ### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
 
