@@ -2,13 +2,13 @@
 
 ## Subject: Asking ChatGPT about AMB82-mini agentic applications
 
-### Prompt:
+## Prompt:
 ```
 Realtek AMB82-mini has 0.4TOPS NN engine with WiFi, BLE and Audio outupt, it can call LLM, VLM , STT, TTS API, what type of agentic applications can run on it ?
 ```
 
-### Response: 
-```
+## Response: 
+
 The **AMB82-mini** from Realtek Semiconductor Corp. is actually a good fit for **edge AI agents** — not giant local LLMs, but *agentic orchestrators* that combine small on-device perception + cloud intelligence.
 
 Because it has:
@@ -25,7 +25,7 @@ Here are the main **agentic application categories** it can realistically run:
 
 ---
 
-# 1. Always-On Voice Agents (Edge-Triggered Assistants)
+### 1. Always-On Voice Agents (Edge-Triggered Assistants)
 
 ### What runs locally
 
@@ -52,7 +52,7 @@ This is probably the **highest-value use case** for the chip.
 
 ---
 
-# 2. Vision-Triggered AI Agents (Camera + VLM)
+### 2. Vision-Triggered AI Agents (Camera + VLM)
 
 The NN engine can handle:
 
@@ -83,7 +83,7 @@ These systems save huge bandwidth and power.
 
 ---
 
-# 3. Audio Intelligence Agents
+### 3. Audio Intelligence Agents
 
 With microphones + DSP + NN:
 
@@ -108,7 +108,7 @@ With microphones + DSP + NN:
 
 ---
 
-# 4. Multimodal IoT Orchestrator Agents
+### 4. Multimodal IoT Orchestrator Agents
 
 The board is strong as a **coordinator agent** rather than a thinker.
 
@@ -133,7 +133,7 @@ This is real **edge agent behavior**.
 
 ---
 
-# 5. Personal Context Agents (Privacy-Sensitive)
+### 5. Personal Context Agents (Privacy-Sensitive)
 
 Because local preprocessing reduces cloud exposure.
 
@@ -152,7 +152,7 @@ The chip handles:
 
 ---
 
-# 6. Robotics Companion Agents (Lightweight)
+### 6. Robotics Companion Agents (Lightweight)
 
 The board can act as the **AI perception module** in small robots.
 
@@ -205,23 +205,21 @@ This pattern gives:
 * fast response
 
 ---
-```
 
----
-### Prompt: 
+## Prompt: 
 ```
 yes, a stratup prototype would be good. I plan to use Camera, TTS to Audio with its SD card storage
 ```
 
-### Response:
-```
+## Response:
+
 Great — with **camera + TTS + SD storage** on the AMB82-mini from Realtek Semiconductor Corp., you can build **edge AI agents that perceive → reason → speak → log**.
 
 Below are **3 startup-grade prototype ideas** that are realistic on this hardware *and* commercially interesting.
 
 ---
 
-# 1. Smart Front-Desk AI Agent (Physical AI Receptionist)
+### 1. Smart Front-Desk AI Agent (Physical AI Receptionist)
 
 ### What it does
 
@@ -270,7 +268,7 @@ Then:
 
 ---
 
-# 2. Retail Shelf Monitoring + Talking Alert Agent
+### 2. Retail Shelf Monitoring + Talking Alert Agent
 
 ### What it does
 
@@ -313,7 +311,7 @@ Stores image + timestamp on SD for audit.
 
 ---
 
-# 3. Smart Study Desk AI Companion (Student Market)
+### 3. Smart Study Desk AI Companion (Student Market)
 
 This one fits **Taiwan student market perfectly**.
 
@@ -383,6 +381,6 @@ Later:
 5. **Pitch positioning for investors**
 
 Tell me which of the three ideas you want to pursue first, and I’ll turn it into a **real startup prototype plan**.
-```
+
 
 
