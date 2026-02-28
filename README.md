@@ -23,6 +23,8 @@ Pass: 035623116
 ---
 ## 2. [EVB & IDE 介紹與使用](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/EVB_IDE.md)
 
+### [Agentic Device using AMB82-mini](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AgenticDevice.md)
+
 ### [MCU 硬體界面介紹](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MCU_interfaces.md)
 
 ---
