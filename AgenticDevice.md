@@ -208,7 +208,7 @@ This pattern gives:
 
 ## Prompt: 
 ```
-yes, a stratup prototype would be good. I plan to use Camera, TTS to Audio with its SD card storage
+yes, a startup prototype would be good. I plan to use Camera, TTS to Audio with its SD card storage
 ```
 
 ## Response:
