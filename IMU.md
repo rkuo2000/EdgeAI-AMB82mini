@@ -77,11 +77,11 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ## AHRS (Attitude and Heading Reference System)
 
 ### Euler Angles
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Eulerangles.svg/300px-Eulerangles.svg.png)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Eulerangles.png?raw=true)
 
 ---
 ### Yaw Pitch Roll (YPR)
-![](https://www.researchgate.net/publication/329603549/figure/fig1/AS:703246263926788@1544678383831/An-illustration-of-the-three-angles-yaw-pitch-and-roll-returned-by-the-Hyper-IMU.png)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Yaw-Roll-Pitch.png?raw=true)
 
 ---
 ### The coordinate system and rotation conventions 
