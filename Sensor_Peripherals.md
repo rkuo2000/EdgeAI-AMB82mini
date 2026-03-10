@@ -50,7 +50,5 @@ myservo.write(pos);
 
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true"></p>
 
-<p><img width="50%" height="50%" src="https://gcs.rimg.com.tw/g4/9c0/415/fannylau/6/a3/4b/22536776333131_883.jpg"></p>
-
 #### Examples> AmebaAnalog > [PWM_ServoControl](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/)
 <p><img width="50%" height="50%" src="https://microcontrollerslab.com/wp-content/uploads/2021/03/MG995-Servo-Motor-pinout-diagram.jpg"></p>
