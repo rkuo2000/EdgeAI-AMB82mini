@@ -29,6 +29,9 @@
 [Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
+**Sketchbook> AMB82-min > BLEConfig_WebServer_ControlLED**<br>
+[Sketchbook> BLEConfig_WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/BLECofnig_WebServer_ControlLED/BLEConfig_WebServer_ControlLED.ino)<br>
+
 ---
 ### [MQTT通訊協定](https://mqtt.org/)
 MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br>
