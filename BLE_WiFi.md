@@ -5,8 +5,8 @@
 #### Examples> AmebaBLE > BLEWiFiConfig
 * Google Play Store: https://play.google.com/store/apps/details?id=com.rtk.btconfig
 * Apple App Store: https://apps.apple.com/sg/app/easy-wifi-config/id1194919510
-<img src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image02110.png">
-<img src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0392.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image02110.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0392.png">
 
 ---
 #### Examples> AmebaBLE > BLEV7RC_CAR_VIDEO
