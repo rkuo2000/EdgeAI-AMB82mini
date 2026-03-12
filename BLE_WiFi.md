@@ -8,6 +8,10 @@
 <p>
 <img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image02110.png">
 <img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0392.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0478.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0565.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0660.png">
+<img width="25%" height="25%" src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0756.png">
 </p>
 
 ---
