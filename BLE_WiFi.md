@@ -1,9 +1,15 @@
-## 通訊硬體界面 
+# 通訊硬體界面 
 
-### BLE (低功耗藍牙）
+## BLE (低功耗藍牙）
 
-**Exmples> AmebaBLE > BLEV7RC_CAR_VIDEO** <br>
+#### Examples> AmebaBLE > BLEWiFiConfig
+* Google Play Store: https://play.google.com/store/apps/details?id=com.rtk.btconfig
+* Apple App Store: https://apps.apple.com/sg/app/easy-wifi-config/id1194919510
+<img src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image02110.png">
+<img src="https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0392.png">
 
+---
+#### Examples> AmebaBLE > BLEV7RC_CAR_VIDEO
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
 * [V7RC APP 介紹](https://hackmd.io/@accomdemy/v7rc)<br>
@@ -14,22 +20,19 @@
 </p>
 
 ---
-### WiFi（無線網路）
-**Examples> WiFi > SimpleTCPServer**<br>
+## WiFi（無線網路）
+
+### Examples> WiFi > SimpleTCPServer
 [WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
 
-#### HTTP Server
-**Examples> WiFi > SimpleHttpWeb > ReceiveData**<br>
+### Examples> WiFi > SimpleHttpWeb > ReceiveData**<br>
 [WiFi - Simple Http Server to Receive Data](https://www.amebaiot.com/en/amebapro2-arduino-web-server-status/)<br>
 
-**Examples> WiFi > SimpleHttpWeb > ControlLED**<br>
-[WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
-
-**Sketchbook> AMB82-mini > WebServer_ControlLED**<br>
+### Sketchbook> AMB82-mini > WebServer_ControlLED
 [Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
-**Sketchbook> AMB82-min > BLEConfig_WebServer_ControlLED**<br>
+### Sketchbook> AMB82-min > BLEConfig_WebServer_ControlLED
 [Sketchbook> BLEConfig_WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/BLECofnig_WebServer_ControlLED/BLEConfig_WebServer_ControlLED.ino)<br>
 
 ---
@@ -37,7 +40,8 @@
 MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br>
 [How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)<br>
 
-**Examples> AmebaMQTTClient > MQTT_basic** <br>
+---
+### Examples> AmebaMQTTClient > MQTT_basic
 [MQTT - Set up MQTT Client to Communicate with Broker](https://www.amebaiot.com/en/amebapro2-arduino-mqtt-upload-listen/)<br>
 ![](https://www.amebaiot.com/wp-content/uploads/2023/06/network/mqtt1-1.png)
 
@@ -64,3 +68,4 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 **[Paho-MQTT Publisher](https://g.co/gemini/share/ae62311518bd)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gemini_Canvas_Paho-MQTT_Text_Publisher.png?raw=true)
+
