@@ -49,8 +49,21 @@ Pass: 035623116
 ## 9. [物件偵測](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Object_Detection.md)
 
 ---
-## 10. 語音模型
+## 10. AmebaNN ~ MultimediaAI
+**[大型語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/LLM.html)** <br>
+**[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)** <br>
 
+### Examples > AmebaNN > MultimediaAI > GenAIVision
+
+### Examples > AmebaNN > MultimediaAI > SendImageOllama
+
+### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper
+
+### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini
+
+### Examples:** AmebaNN > MultimediaAI > TextToSpeech
+
+---
 ### 語音辨識範例
 #### ffmpeg.exe is needed for Windows to run Whisper!
 * [AmebaPro2 Whisper server](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/src/AmebaPro2_Whisper_server.py)
@@ -71,36 +84,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * reset AMB82-MINI 來啟動, 按鍵兩秒後即可錄音詢問 LLM/Gemini
 
 ---
-## 11. 語言模型
-
-### 大型語言模型範例 (LLM)
-
-## 視覺語言模型 (VLM)
-**[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)** <br>
-
----
-### 影像+語音交談範例
-
-* [AmebaPro2_whisper_llava_server.py](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AmebaPro2_server/AmebaPro2_Whisper_Llava_server.py)
-  
-* [HTTP_Post_ImageAudio](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/HTTP_Post_ImageAudio)
-
----
-
-### AmebaNN 範例
-
-#### Examples > AmebaNN > MultimediaAI > GenAIVision
-
-#### Examples > AmebaNN > MultimediaAI > SendImageOllama
-
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper
-
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini
-
-#### Examples:** AmebaNN > MultimediaAI > TextToSpeech
-  
----
-## 12. EdgeAI 應用專題實作
+## 11. EdgeAI 應用專題實作
 
 ### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
 
