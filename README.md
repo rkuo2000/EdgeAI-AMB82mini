@@ -86,20 +86,26 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ---
 ## 11. EdgeAI 應用專題實作
 
-### [邊緣計算微控制器應用專題實作期末報告](https://itzorange.my.canva.site/edgiai01151022projectpresent/#%E7%B0%A1%E4%BB%8B) (Canva)
+### Vibe Coding
+1. [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
+2. [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
+3. [AI看圖說故事](https://li-kai-huang.github.io/blog/AI-Class/project3/)
+4. [AI情緒感知音樂播放器](https://li-kai-huang.github.io/blog/AI-Class/project5/)
+5. [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
+6. [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
+7. [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
 
-### [EdgeAI 專題快速導覽](https://li-kai-huang.github.io/blog/AI-Class/)
+---
+### Agent & Robots
 
-* [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
-  
-* [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
-  
-* [AI看圖說故事](https://li-kai-huang.github.io/blog/AI-Class/project3/)
-  
-* [AI情緒感知音樂播放器](https://li-kai-huang.github.io/blog/AI-Class/project5/)
-  
-* [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
-  
-* [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
-  
-* [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
+#### RoboCar
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true)
+
+#### Toy-Dog
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true)
+
+#### Vaccum Robot
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vacuum_robot.png?raw=true)
+
+#### Gripper Agent
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/SO-ARM101.webp?raw=true)
