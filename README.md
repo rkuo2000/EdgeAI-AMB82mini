@@ -99,15 +99,15 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ### Agent & Robots
 
 #### RoboCar
-<img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true">
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true"></p>
 
 #### Toy-Dog
-<img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true">
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true"></p>
 
 #### Vaccum Robot
-<img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vacuum_robot.png?raw=true")
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vacuum_robot.png?raw=true")</p>
 
 #### Gripper Agent
-<img width="50%" height="50%" "https://github.com/rkuo2000/EdgeAI-AMB82mini/50%" src="assets/SO-ARM101.webp?raw=true"<br>
+<p><img width="50%" height="50%" "https://github.com/rkuo2000/EdgeAI-AMB82mini/50%" src="assets/SO-ARM101.webp?raw=true"<br></p>
 
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/SO-ARM101.webp?raw=true)
+<p><img width="50%" height="50%" "https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/SO-ARM101.webp?raw=true"<br></p>
