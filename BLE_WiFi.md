@@ -28,18 +28,21 @@
 ---
 ## WiFi（無線網路）
 
-### Examples> WiFi > SimpleTCPServer
+### Examples > WiFi > SimpleTCPServer
 [WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
 
-### Examples> WiFi > SimpleHttpWeb > ReceiveData**<br>
+### Examples > WiFi > SimpleHttpWeb > ReceiveData
 [WiFi - Simple Http Server to Receive Data](https://www.amebaiot.com/en/amebapro2-arduino-web-server-status/)<br>
 
-### Sketchbook> AMB82-mini > WebServer_ControlLED
+### Sketchbook > AMB82-mini > WebServer_ControlLED
 [Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
-### Sketchbook> AMB82-min > BLEConfig_WebServer_ControlLED
+### Sketchbook > AMB82-min > BLEConfig_WebServer_ControlLED
 [Sketchbook> BLEConfig_WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/BLECofnig_WebServer_ControlLED/BLEConfig_WebServer_ControlLED.ino)<br>
+
+### Examples > AmebaFileSystem > ReadHTMLFile
+[Read and display HTML file from SD card](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/File%20System/Read%20and%20display%20HTML%20file%20from%20SD%20card.html)
 
 ---
 ### [MQTT通訊協定](https://mqtt.org/)
@@ -74,4 +77,14 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 **[Paho-MQTT Publisher](https://g.co/gemini/share/ae62311518bd)** <br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gemini_Canvas_Paho-MQTT_Text_Publisher.png?raw=true)
+
+---
+## OTA (Over-The-Air)
+To install Ameba-OTA-UI, read [https://github.com/Ameba-AioT/ameba-OTA-UI](https://github.com/Ameba-AioT/ameba-OTA-UI)<br>
+
+### Examples > AmebaOTA > OTA
+[Ameba Over-the-Air Firmware Update](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/OTA/Ameba%20Over-the-Air%20Firmware%20Update.html)<br>
+
+### Examples > AmebaOTA > SDCardOTA
+[Ameba SDCard OTA Firmware Update](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/OTA/Ameba%20SDCard%20OTA%20Firmware%20Update.html)<br>
 
