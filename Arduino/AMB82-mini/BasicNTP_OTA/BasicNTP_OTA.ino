@@ -7,8 +7,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-char ssid[] = "HITRON-DF90-2.4G";
-char pass[] = "0972211921";
+char ssid[] = "TCFSTWIFI.ALL";
+char pass[] = "035623116";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
