@@ -8,6 +8,11 @@
 * [Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
 
 ---
+### WebSocket Viewer
+**Examples > AmebaMultimedia > [WebSocketViewer](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Multimedia/Websocket%20Viewer.html)** <br>
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image04120.png)
+
+---
 ### [動作偵測 (motion detection)](https://www.amebaiot.com/en/amebapro2-arduino-video-motion/)
 **Examples> AmebaMultimedia > MotionDetection > LoopPostProcessing** <br>
 * 修改ssid, passwd, 後燒錄到AMB82-mini,
