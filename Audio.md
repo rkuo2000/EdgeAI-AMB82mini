@@ -25,6 +25,8 @@ AMB82-mini + PAM8403 + 4ohm 3W speaker<br>
 ---
 ### MP4錄音
 
+#### Examples> AmebaMultimedia > Audio > AudioTriggerRecording
+
 #### Examples> AmebaMultimedia > RecordMP4 > AudioOnly
 
 ---
@@ -35,5 +37,3 @@ The default pretrained model can recognise 521 different types of audios in tota
 
 [YAMNet](https://codimd.mcl.math.ncu.edu.tw/s/hoOqEgBSf)<br>
 [![](https://markdown-videos-api.jorgenkh.no/youtube/oi8ML6aJcvI)](https://youtu.be/oi8ML6aJcvI)
-
-
