@@ -66,7 +66,7 @@ publish.single("ntou/edgeai/robot1", "go to the kitchen", hostname=host)
 **subsribe messages from AMB82-mini** <br>
 ```
 import paho.mqtt.subscribe as subscribe
-host = "test.mosquitto.org"https://github.com/rkuo2000/EdgeAI-AMB82mini
+host = "test.mosquitto.org"
 msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
 print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
