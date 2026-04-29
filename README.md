@@ -50,18 +50,15 @@ Pass: 035623116
 
 ---
 ## 10. AmebaNN ~ MultimediaAI
-**[大型語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/LLM.html)** <br>
-**[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)** <br>
+**[大型語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)** <br>
+**[視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/VLM.html)** <br>
 
-### Examples > AmebaNN > MultimediaAI > GenAIVision
-
-### Examples > AmebaNN > MultimediaAI > SendImageOllama
-
-### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper
-
-### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini
-
-### Examples:** AmebaNN > MultimediaAI > TextToSpeech
+### Examples
+#### Examples > AmebaNN > MultimediaAI > SendImageOllama
+#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper
+#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini
+#### Examples > AmebaNN > MultimediaAI > TextToSpeech
+#### Examples > AmebaNN > MultimediaAI > GenAIVisionTTS
 
 ---
 ### 語音辨識範例
