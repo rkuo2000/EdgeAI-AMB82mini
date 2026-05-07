@@ -76,17 +76,7 @@ MPU6050 mpu;
    external interrupt #0 pin. On the Arduino Uno and Mega 2560, this is
    digital I/O pin 2.
    ========================================================================= */
-
-/* =========================================================================
-   NOTE: Arduino v1.0.1 with the Leonardo board generates a compile error
-   when using Serial.write(buf, len). The Teapot output uses this method.
-   The solution requires a modification to the Arduino USBAPI.h file, which
-   is fortunately simple, but annoying. This will be fixed in the next IDE
-   release. For more info, see these links:
-
-   http://arduino.cc/forum/index.php/topic,109987.0.html
-   http://code.google.com/p/arduino/issues/detail?id=958
-   ========================================================================= */
+//#define OUTPUT_READABLE_YAWPITCHROLL
 
 // #define INTERRUPT_PIN 2  // use pin 2 on Arduino Uno & most boards
 // #define LED_PIN 13 // (Arduino is 13, Teensy is 11, Teensy++ is 6)
