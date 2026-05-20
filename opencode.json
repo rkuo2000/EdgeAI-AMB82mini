@@ -1,0 +1,71 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "ollama/qwen3.6:latest",
+  "provider": {
+    "ollama": {
+      "models": {
+        "qwen3.6:latest": {
+          "_launch": true,
+          "name": "Qwen3.6"
+        }
+      },
+      "name": "Ollama (local)",
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "baseURL": "http://127.0.0.1:11434/v1"
+      }
+    }
+  },
+  "mcp": {
+    "freecad": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "freecad-mcp"
+      ]
+    },
+    "blender": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "blender-mcp"
+      ]
+    },
+    "unityMCP": {
+      "type": "remote",
+      "url": "http://127.0.0.1:8080/mcp",
+      "enabled": true
+    },
+    "godot": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "godot-mcp"
+      ]
+    },
+    "ameba-pro2": {
+      "type": "local",
+      "command": [
+        "uv",
+        "--directory",
+        "/home/rkuo/ameba-mcp/src/ameba-mcp-server",
+        "run",
+        "ameba-mcp",
+        "--product",
+        "ameba-pro2"
+      ]
+    },
+    "ameba-d": {
+      "type": "local",
+      "command": [
+        "uv",
+        "--directory",
+        "/home/rkuo/ameba-mcp/src/ameba-mcp-server",
+        "run",
+        "ameba-mcp",
+        "--product",
+        "ameba-d"
+      ]
+    }
+  }
+}
