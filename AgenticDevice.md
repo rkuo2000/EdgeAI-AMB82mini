@@ -1,4 +1,4 @@
-# Agentic Device using AMB82-mini
+# Agentic Device design using AMB82-mini
 
 ## Subject: Asking ChatGPT about AMB82-mini agentic applications
 
