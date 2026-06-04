@@ -34,7 +34,8 @@ class Base64Data(BaseModel):
 class Base64TextImage(BaseModel):
     text_base64_string: str
     image_base64_string: str
-    
+
+Command = "STOP"
 app = FastAPI()
 
 @app.get("/")
@@ -44,12 +45,21 @@ def home():
 @app.get("/cmd")
 async def get_cmd():
     try:
-        cmd = "FORWARD"
+        cmd = Command;
         print(cmd)
         return Response(cmd)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.post("/comm")
+async def post_comm(data: Base64Text):
+    try:
+        Command = data.text_base64_string;
+        print(Command);        
+        return Response("OK!")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+        
 @app.post("/asr")
 async def post_asr(data: Base64Audio):
     try:
