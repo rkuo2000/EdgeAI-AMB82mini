@@ -93,7 +93,20 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 7. [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
 
 ---
-### Agent & Robot
+## 12. Agentic Coding
+
+### [AMB82 MCP Server](https://lobehub.com/zh-TW/mcp/jimmychintw-amb82-mcp-server)
+* 10 MCP Tools for AMB82 Mini development
+* Dual-mode development:
+  - Arduino — arduino-cli compile & upload
+  - FreeRTOS SDK — cmake + arm-none-eabi-gcc compile, uartfwburn upload
+* Semantic search with ONNX Runtime — pre-built index covers 3,500+ documents from:
+  - `amb82-mini-docs` — official tutorials and API docs
+  - `ameba-arduino-pro2` — Arduino SDK libraries and examples
+  - `ameba-rtos-pro2` — FreeRTOS SDK components
+
+---
+### RoboCar & App Server
 
 #### RoboCar: AMB82-mini + DRV8833 + MPU6050 + VL53L0X + PAM8403 + Speaker + DC-motor x2
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true"></p>
@@ -113,3 +126,4 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 * 偵測物件&回報
 * 偵測人物&回報＆發聲
 * 播放音檔
+
