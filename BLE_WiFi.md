@@ -15,6 +15,20 @@
 </p>
 
 ---
+#### Examples> AmebaBLE > BLEUartClient
+[BLE UART Client](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/BLE/BLE%20UART%20Client.html)<br>
+
+---
+#### Examples> AmebaBLE > DHT_Over_BLEUart
+[DHT over BLE UART](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/BLE/DHT%20over%20BLE%20UART.html)<br>
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image02103.png)
+
+---
+#### Examples> AmebaBLE > BLEWifiConfig
+[WiFi Config Service](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/BLE/WiFi%20Config%20Service.html)<br>
+![](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/_images/image0392.png)
+
+---
 #### Examples> AmebaBLE > BLEV7RC_CAR_VIDEO
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
@@ -87,4 +101,5 @@ To install Ameba-OTA-UI, read [https://github.com/Ameba-AioT/ameba-OTA-UI](https
 
 ### Examples > AmebaOTA > SDCardOTA
 [Ameba SDCard OTA Firmware Update](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/OTA/Ameba%20SDCard%20OTA%20Firmware%20Update.html)<br>
+
 
