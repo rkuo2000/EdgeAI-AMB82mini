@@ -112,7 +112,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true"></p>
 
 **Functions**:<br>
-* 防撞 - 需中斷服務程式讀取紅外線測距 (Timer Interrupt Service Routine)
+* 防撞 - 需讀取紅外線測距 
 * 朝向 - 需讀取慣性感測元件偵測角度
 * 行進 - 需讀取行進命令，執行馬達控制
 * 導航 - 需拍照上傳視覺模型進行辨識場景，根據場景判斷是否繼續前進或修正行進角度等
