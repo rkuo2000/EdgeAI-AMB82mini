@@ -93,18 +93,23 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 7. [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
 
 ---
-### Agent & Robots
+### Agent & Robot
 
-#### RoboCar
+#### RoboCar: AMB82-mini + DRV8833 + MPU6050 + VL53L0X + PAM8403 + Speaker + DC-motor x2
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true"></p>
 
-#### Toy-Dog
-<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/toy-dog.jpg?raw=true"></p>
+**Functions**:<br>
+* 防撞 - 需中斷服務程式讀取紅外線測距 (Timer Interrupt Service Routine)
+* 朝向 - 需讀取慣性感測元件偵測角度
+* 行進 - 需讀取行進命令，執行馬達控制
+* 導航 - 需拍照上傳視覺模型進行辨識場景，根據場景判斷是否繼續前進或修正行進角度等
+* 命令 - POST Text to query
 
-#### Vaccum Robot
-<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/vacuum_robot.png?raw=true")</p>
-
-#### Gripper Agent
-<p><img width="50%" height="50%" "https://github.com/rkuo2000/EdgeAI-AMB82mini/50%" src="assets/SO-ARM101.webp?raw=true"<br></p>
-
-<p><img width="50%" height="50%" "https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/SO-ARM101.webp?raw=true"<br></p>
+#### Agent: OpenCode to App Server on PC / RPi5（樹莓派）
+**Prompts:**<br>
+* 請到客廳
+* 巡視書房
+* 尋找狗狗
+* 偵測物件&回報
+* 偵測人物&回報＆發聲
+* 播放音檔
