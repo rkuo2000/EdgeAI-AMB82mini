@@ -99,7 +99,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ---
 ## 12. Agentic Coding
 
-### [AMB82 MCP Server](https://lobehub.com/zh-TW/mcp/jimmychintw-amb82-mcp-server)
+### [AMB82 MCP Server](https://lobehub.com/zh-TW/mcp/jimmychintw-amb82-mcp-server) for FreeRTOS SDK
 * 10 MCP Tools for AMB82 Mini development
 * Dual-mode development:
   - Arduino — arduino-cli compile & upload
