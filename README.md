@@ -94,7 +94,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 
 ### 期末學習心得報告
 #### [EdgeAI-MCU final report](https://github.com/rkuo2000/EdgeAI-MCU)
-#### [EdgeAI-MCU student's report](https://ka-trina.github.io/EdgeAI-MCU/)
+#### [EdgeAI-MCU student's report](https://new1moon2cat3-code.github.io/EdgeAI-MCU-/)
 
 ---
 ## 12. Agentic Coding
