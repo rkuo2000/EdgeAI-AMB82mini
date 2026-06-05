@@ -83,7 +83,7 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 ---
 ## 11. EdgeAI 應用專題實作
 
-### Vibe Coding
+### 專題實作
 1. [AI輔助回收系統](https://li-kai-huang.github.io/blog/AI-Class/project1/)
 2. [AI輔助英語讀字卡造句](https://li-kai-huang.github.io/blog/AI-Class/project4/)
 3. [AI看圖說故事](https://li-kai-huang.github.io/blog/AI-Class/project3/)
@@ -91,6 +91,10 @@ Download [ffmpeg-master-latest-win64-gpl.zip](https://github.com/BtbN/FFmpeg-Bui
 5. [AI監視錄影系統](https://li-kai-huang.github.io/blog/AI-Class/project2/)
 6. [盲人輔助系統](https://li-kai-huang.github.io/blog/AI-Class/project7/)
 7. [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
+
+### 期末學習心得報告
+#### [EdgeAI-MCU final report](https://github.com/rkuo2000/EdgeAI-MCU)
+#### [EdgeAI-MCU student's report](https://ka-trina.github.io/EdgeAI-MCU/)
 
 ---
 ## 12. Agentic Coding
