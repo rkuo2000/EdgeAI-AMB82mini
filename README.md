@@ -28,18 +28,18 @@ Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
 ## 3. 語音辨識 (ASR)
 
 ### 聲音偵測 (VAD)
-#### Examples> AmebaMultimedia > Audio > AudioTriggerRecording
-#### Examples> AmebaMultimedia > Audio > SoundDetectorTrigger
+* Examples> AmebaMultimedia > Audio > AudioTriggerRecording
+* Examples> AmebaMultimedia > Audio > SoundDetectorTrigger
 
 ### 雲端語音辨識 
 *ffmpeg.exe is needed for Windows to run Whisper* <br>
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper (Whisper)
-#### Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini  (Gemini)
+* Examples > AmebaNN > MultimediaAI > GenAISpeech_Whisper (Whisper)
+* Examples > AmebaNN > MultimediaAI > GenAISpeech_Gemini  (Gemini)
 
 ### 本地PC語音辨識
 *[AmebaPro2 Whisper LLM_server](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AmebaPro2_server/AmebaPro2_Whisper_LLM_server.py)* <br>
-#### Examples -> AmebaHttp > HTTP_Post_MP4_Whisper_server
-#### Examples -> AmbeaHttp > HTTP_Post_MP4_Whisper_server_FastAPI
+* Examples -> AmebaHttp > HTTP_Post_MP4_Whisper_server
+* Examples -> AmbeaHttp > HTTP_Post_MP4_Whisper_server_FastAPI
 
 ---
 ## 4. 神經網路模型 (AmebaNN)
@@ -56,16 +56,16 @@ Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
 * [視覺語言模型介紹](https://rkuo2000.github.io/AI-course/lecture/2026/06/07/VLM.html)
   
 ### 雲端視覺辨識
-#### Examples > AmebaNN > MultimediaAI > GenAIVision （Gemini-Flash2.5)
-#### Examples > AmebaNN > MultimediaAI > GenAIVisionTTS
+* Examples > AmebaNN > MultimediaAI > GenAIVision （Gemini-Flash2.5)
+* Examples > AmebaNN > MultimediaAI > GenAIVisionTTS
 
 ### 本地PC視覺辨識
-#### PC-RTX5060OC-8/16GB running Ollama-server with Gemma-4 model
+*PC-RTX5060OC-8/16GB running Ollama-server with Gemma-4 model* <br>
 `ollama run gemma4:e2b`<br>
 
-#### Examples > AmebaNN > MultimediaAI > SendImageOllama
-#### Sketchbook > AMB82-mini > [Ollama_sendText](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/Ollama_sendText/Ollama_sendText.ino)
-#### Sketchbook > AMB82-mini > [Ollama_sendImage](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/Ollama_sendImage/Ollama_sendImage.ino)
+* Examples > AmebaNN > MultimediaAI > SendImageOllama
+* Sketchbook > AMB82-mini > [Ollama_sendText](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/Ollama_sendText/Ollama_sendText.ino)
+* Sketchbook > AMB82-mini > [Ollama_sendImage](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/Ollama_sendImage/Ollama_sendImage.ino)
 
 ---
 ## 6. Agentic Coding
