@@ -19,7 +19,6 @@
 ### 聲音播放 
 * Examples > AmebaMultimedia > SDCardPlayMP3
 * Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardPlayMP3_All/SDcardPlayMP3_All.ino)
-*.mp3 files stored under mp3 directory* <br>
 
 ### 語音合成 (TTS)
 Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
@@ -68,10 +67,9 @@ Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
 * Sketchbook > AMB82-mini > [Ollama_sendImage](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/Ollama_sendImage/Ollama_sendImage.ino)
 
 ---
-## 6. Agentic Coding
+## 6. Agent & Robot-control
 
 ### [AMB82 MCP Server](https://lobehub.com/zh-TW/mcp/jimmychintw-amb82-mcp-server) for FreeRTOS SDK
-* 10 MCP Tools for AMB82 Mini development
 * Dual-mode development:
   - Arduino — arduino-cli compile & upload
   - FreeRTOS SDK — cmake + arm-none-eabi-gcc compile, uartfwburn upload
@@ -81,26 +79,17 @@ Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
   - `ameba-rtos-pro2` — FreeRTOS SDK components
 
 ---
-### RoboCar & App Server
+### Agentic MCU
 
 #### RoboCar: AMB82-mini + DRV8833 + MPU6050 + VL53L0X + PAM8403 + Speaker + DC-motor x2
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true"></p>
 
-**Functions**:<br>
-* 防撞 - 需讀取紅外線測距 
-* 朝向 - 需讀取慣性感測元件偵測角度
-* 行進 - 需讀取行進命令，執行馬達控制
-* 導航 - 需拍照上傳視覺模型進行辨識場景，根據場景判斷是否繼續前進或修正行進角度等
-* 命令 - POST Text to query
-
-#### Agent: OpenCode to App Server on PC / RPi5（樹莓派）
-**Prompts:**<br>
-* 請到客廳
-* 巡視書房
-* 尋找狗狗
-* 偵測物件&回報
-* 偵測人物&回報＆發聲
-* 播放音檔
+#### Functions:
+* 防撞 - 需讀取紅外線測距 (VL53L0X)
+* 朝向 - 需讀取慣性感測元件偵測角度 (MPU6050)
+* 行進 - 需讀取行進命令，執行馬達控制 (DRV8833)
+* 導航 - 需拍照送VLM識別  (Ollama server: [Gemma4:E2B] )
+* 命令 - 提問LLM or Agent (Ollama server: [Gemma4:E2B] )
 
 ---
 ## Appendix. EdgeAI 應用專題實作
