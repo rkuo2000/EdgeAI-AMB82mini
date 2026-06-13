@@ -1,7 +1,5 @@
 /*
-This example demonstrates how to capture an image from the camera and send it to Ollama (a local server for Llava Vision).
-
-Credit: geofrancis
+Example : AMB82-mini camera capture an image and send it to Ollama server (Gemma4) on PC
 */
 #include <ArduinoJson.h> 
 #include <WiFi.h>
