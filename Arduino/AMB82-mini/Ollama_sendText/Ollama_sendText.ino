@@ -1,7 +1,5 @@
 /*
-This example demonstrates how to capture an image from the camera and send it to Ollama (Gemma4).
-
-Credit: geofrancis
+Example : AMB82-mini send text (3 times) to Ollama server (Gemma4) on PC.
 */
 #include <ArduinoJson.h> 
 #include <WiFi.h>
