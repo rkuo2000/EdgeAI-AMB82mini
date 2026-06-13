@@ -15,8 +15,8 @@ VideoSetting config(768, 768, CAM_FPS, VIDEO_JPEG, 1);
 uint32_t img_addr = 0;
 uint32_t img_len = 0;
 
-char ssid[] = "HITRON-DF90-2.4G";    // your network SSID (name)
-char pass[] = "0972211921";        // your network password
+char ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
+char pass[] = "035623116";        // your network password
 int status = WL_IDLE_STATUS;     // Indicator of Wifi status
 
 const char *myDomain = "192.168.0.22"; // Ollama Server IP address
