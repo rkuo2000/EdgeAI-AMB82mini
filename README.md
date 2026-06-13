@@ -21,7 +21,7 @@
 * Sketchbook> AMB82-mini > [SDCardPlayMP_All](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/SDcardPlayMP3_All/SDcardPlayMP3_All.ino)
 
 ### 語音合成 (TTS)
-Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
+* Examples > AmebaNN > MultimediaAI > TextToSpeech (google-tts)
 
 ---
 ## 3. 語音辨識 (ASR)
