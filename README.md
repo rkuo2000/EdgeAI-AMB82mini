@@ -104,5 +104,5 @@
 7. [盲人導航系統](https://li-kai-huang.github.io/blog/AI-Class/project6/)
 
 ---
-### 115年度期末final report](https://github.com/rkuo2000/EdgeAI-MCU)
+### [115年度期末final report](https://github.com/rkuo2000/EdgeAI-MCU)
 #### [EdgeAI-MCU student's report](https://new1moon2cat3-code.github.io/EdgeAI-MCU-/)
