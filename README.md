@@ -27,7 +27,7 @@
 ---
 ## 2. IDE使用介紹 (Arduino-IDE intro)
 
-### [Arduino IDE 2.3.7](https://www.arduino.cc/en/software/) 下載安裝
+### [Arduino IDE 2.3.10](https://www.arduino.cc/en/software/) 下載安裝
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Arduino_IDE.png?raw=true)
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 ### 選定開發板 AMB82-MINI
-Tools > Board Manager > Search AMB82 : Realtek Ameba Boards 4.1.0-build20260213<br>
+Tools > Board Manager > Search AMB82 : Realtek Ameba Boards 4.1.1-build20260603<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/Arduino_IDE_BoardManager.png?raw=true)
 
 **Serial-monitor** = `115200` baud <br>
