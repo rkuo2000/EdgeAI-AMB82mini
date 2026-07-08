@@ -27,8 +27,7 @@
 ---
 ## 2. IDE使用介紹 (Arduino-IDE intro)
 
-### [Arduino IDE 2.3.7](https://www.arduino.cc/en/software/) 下載安裝
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Arduino_IDE.png?raw=true)
+### [Arduino IDE 2.3.10](https://www.arduino.cc/en/software/) 下載安裝
 
 ---
 ### 偏好設定 (Preferences)
