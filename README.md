@@ -20,9 +20,9 @@
 ### [AMB82-mini](https://www.icshop.com.tw/products/368030501864)
 #### [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
 
-<p><img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini.png?raw=true"></p>
+<p><img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini.png?raw=true"></p>
 
-<p><img src="https://github.com/rkuo2000/EdgeAI-MCU/blob/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
+<p><img src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
 
 ---
 ## 2. IDE使用介紹 (Arduino-IDE intro)
