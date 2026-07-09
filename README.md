@@ -1,4 +1,4 @@
-# EdgeAI AMB82mini
+# [EdgeAI AMB82mini](https://rkuo2000.github.io/EdgeAI-AMB82mini/)
 **[人工智慧教材](https://rkuo2000.github.io/AI-course/)** <br>
 
 ## 1. AMB82-mini 開發板介紹
