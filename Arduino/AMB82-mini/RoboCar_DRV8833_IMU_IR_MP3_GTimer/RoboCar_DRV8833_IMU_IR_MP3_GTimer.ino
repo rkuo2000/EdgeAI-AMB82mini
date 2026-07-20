@@ -31,8 +31,8 @@ String mp3file = "robocar_ready.mp3";
 
 VL53L0X sensor;
 
-char ssid[] = "HITRON-DF90-2.4G";    // your network SSID (name)
-char pass[] = "0972211921";        // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
+char pass[] = "035623116";        // your network password (use for WPA, or use as key for WEP)
 int keyIndex = 0;                // your network key Index number (needed only for WEP)
 int status = WL_IDLE_STATUS;     // Indicator of Wifi status
 
