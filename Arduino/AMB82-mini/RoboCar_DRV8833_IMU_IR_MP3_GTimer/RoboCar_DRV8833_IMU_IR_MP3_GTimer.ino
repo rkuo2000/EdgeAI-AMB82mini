@@ -209,8 +209,8 @@ void setup()
     mp3file = "robocar_ready.mp3";
     playMP3();
 
-    // timer id 0, period 100ms, invoke myhander
-    GTimer.begin(TIMER_ID, (1 * 100 * 1000), myhandler);
+    // timer id 0, period 1000ms, invoke myhander
+    GTimer.begin(TIMER_ID, (1 * 1000 * 1000), myhandler);
 }
 
 
