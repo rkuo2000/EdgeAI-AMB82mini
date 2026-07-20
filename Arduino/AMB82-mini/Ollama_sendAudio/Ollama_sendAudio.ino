@@ -26,8 +26,8 @@ StreamIO audioStreamer1(1, 1);    // 1 Input Audio -> 1 Output AAC
 StreamIO audioStreamer2(1, 1);    // 1 Input AAC -> 1 Output MP4
 int recordSeconds = 5;
 
-char ssid[] = "HITRON-DF90-2.4G";    // your network SSID (name)
-char pass[] = "0972211921";        // your network password
+char ssid[] = "TCFSTWIFI.ALL";    // your network SSID (name)
+char pass[] = "035623116";        // your network password
 int status = WL_IDLE_STATUS;     // Indicator of Wifi status
 
 const char *myDomain = "192.168.0.16"; // Ollama Server IP address
