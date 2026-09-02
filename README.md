@@ -13,7 +13,7 @@
 
 <p><img width="25%" height="25%" src="https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg"></p>
 
-![](https://tie.twtm.com.tw/uploads/exhibit_photos/3ys6pdXKl3QZdiB5fTNFvhQkgevUBtU2hOIVjsjj.jpg)
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/HUB8735-Ultra_pinout.jpg?raw=true)
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-_NMUnY0kK4)](https://youtu.be/-_NMUnY0kK4)
 
@@ -46,7 +46,7 @@
 
 ---
 ### 選定開發板 AMB82-MINI
-Tools > Board Manager > Search AMB82 : Realtek Ameba Boards 4.1.1-build20260603<br>
+Tools > Board Manager > Search AMB82 : Realtek Ameba Boards 4.1.1-build20260823<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Arduino_IDE_BoardManager.png?raw=true)
 
 **Serial-monitor** = `115200` baud <br>
