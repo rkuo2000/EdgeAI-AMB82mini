@@ -6,13 +6,12 @@
 	@test
 		-# Test 101 Print out Hello world  
 */
-
+#include "SPI.h"
 // libraries
 #include "GC9A01_LTSM.hpp"
 // Fonts needed
 #include "fonts_LTSM/FontArialBold_LTSM.hpp"
 ///@cond
-#include "SPI.h"
 
 //  Test timing related defines
 #define TEST_DELAY1 1000  // mS
