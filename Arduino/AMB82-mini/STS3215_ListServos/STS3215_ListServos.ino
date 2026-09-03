@@ -6,8 +6,8 @@
 // This code was tested on an Arduino Mega
 
 #include "STSServoDriver.h"
-#define S_RXD 16
-#define S_TXD 17
+#define S_RXD 18
+#define S_TXD 19
 
 void setup() {
   Serial.begin(115200);
