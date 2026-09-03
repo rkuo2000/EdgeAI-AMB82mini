@@ -6,15 +6,16 @@
 // This code was tested on an Arduino Mega
 
 #include "STSServoDriver.h"
-
+#define S_RXD 16
+#define S_TXD 17
 
 void setup() {
   Serial.begin(115200);
-  Serial1.begin(1000000);
+  Serial2.begin(1000000, SERIAL_8N1, S_RXD, S_TXD);
 
   // Try to connect with the servos, on Serial1, using pin 20 as direction pin
   STSServoDriver servos;
-  if (!servos.init(20, &Serial1))
+  if (!servos.init(20, &Serial2))
   {
     Serial.println("No servo detected");
   }
