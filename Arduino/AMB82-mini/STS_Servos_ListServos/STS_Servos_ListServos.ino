@@ -10,7 +10,6 @@
 
 void setup() {
   Serial.begin(115200);
-  Serial2.begin(1000000, SERIAL_8N1);  
 
   // Try to connect with the servos, on Serial1, using pin 20 as direction pin  
   STSServoDriver servos;
